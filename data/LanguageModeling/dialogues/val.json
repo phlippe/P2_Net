@@ -1,0 +1,1393 @@
+{
+    "Attraction-Inform:Addr,Addr,Fee,Fee,Name,Name": {
+        "MUL0942_B4": "The <Name=\"museum of classical archaeology\"> is <Fee=\"free\"> at <Addr=\"sidgwick avenue\"> with postcode cb39da . The <Name=\"cambridge and county folk museum\"> is at <Addr=\"2-3 castle street\"> , postcode cb30aq and cost <Fee=\"3.50 pounds\"> .",
+        "MUL1053_B2": "<Name=\"Abbey pool and astroturf pitch\"> at <Addr=\"pool way , whitehill road\"> with <Fee=\"unknown\"> entrance fee . The <Name=\"cherry hinton water play\"> at <Addr=\"cherry hinton hall\"> , <Fee=\"free\"> entrance .",
+        "PMUL1208_B6": "Okay there is the <Name=\"Christ 's College\"> located at <Addr=\"Saint Andrew 's Street\"> and it 's <Fee=\"free\"> . Also <Name=\"Corpus Christi College\"> , <Addr=\"King 's Parade\"> cost <Fee=\"2 pounds\"> .",
+        "PMUL2118_B2": "<Name=\"All saints church\"> is on <Addr=\"jesus lane\"> with <Fee=\"free\"> entrance , <Name=\"great saint mary 's church\"> is located at <Addr=\"market square\"> and has an entrance fee of <Fee=\"2 pounds\"> ."
+    },
+    "Attraction-Inform:Addr,Area,Fee,Name,Phone": {
+        "MUL0406_B5": "<Name=\"The Scott Polar Museum\"> is located on <Addr=\"Lensfield Road\"> at the <Area=\"city centre\"> , their phone number is <Phone=\"01223336540\"> . It is <Fee=\"free\"> to see .",
+        "MUL0452_B5": "<Name=\"Corpus christi\"> is in the <Area=\"centre\"> , the address is <Addr=\"king 's parade\"> and has an entrance fee of <Fee=\"2 pounds\"> . Their phone is <Phone=\"01223338000\"> .",
+        "MUL1939_B5": "Sure ! <Name=\"Little Saint Mary 's Church\"> is in the <Area=\"centre\"> of the city on <Addr=\"Little Saint Mary 's Lane\"> . The phone number is <Phone=\"01223366202\"> . It has <Fee=\"free\"> admission .",
+        "MUL2328_B5": "<Name=\"Churchill college\"> is on the <Area=\"west side\"> on <Addr=\"Storey 's way\"> . There is <Fee=\"no entrance fee\"> . The phone number is <Phone=\"01223336233\"> .",
+        "PMUL1104_B1": "<Name=\"Queens ' College\"> is located on <Addr=\"Silver Street\"> in the <Area=\"west\"> . Their phone number is <Phone=\"01223335511\"> and the entrance fee is <Fee=\"2.50 pounds\"> ."
+    },
+    "Attraction-Inform:Addr,Area,Fee,Name,Type": {
+        "MUL1115_B1": "Of couse . <Name=\"Clare Hall\"> is a <Type=\"college\"> located in the <Area=\"west\"> . It 's address is <Addr=\"herschel road\"> , and there is <Fee=\"no entrance fee\"> .",
+        "MUL1781_B4": "The <Name=\"regency gallery\"> is a <Type=\"museum\"> in the <Area=\"centre\"> . It is located at <Addr=\"39 fitzroy street\"> . Admission is <Fee=\"free\"> .",
+        "PMUL1018_B5": "<Name=\"The Fitzwilliam Museum\"> is a <Fee=\"free\"> <Type=\"museum\"> in the <Area=\"center of town\"> , on <Addr=\"Trumpington Street\"> .",
+        "PMUL1088_B5": "No , <Name=\"old schools\"> is a <Type=\"tourist attraction\"> in the <Area=\"centre\"> . It 's located on <Addr=\"trinity lane\"> and there 's <Fee=\"no charge to check it out\"> .",
+        "PMUL1105_B5": "There is a <Fee=\"free\"> <Type=\"museum\"> , located at <Addr=\"98 King Street\"> . It 's called the <Name=\"Broughton House Gallery\"> . It 's located in the <Area=\"city centre\"> ."
+    },
+    "Attraction-Inform:Addr,Area,Fee,Phone": {
+        "MUL0983_B1": "Sure , the address is <Addr=\"magdalene street\"> . The entrance is <Fee=\"free\"> , it 's in the <Area=\"west\"> area , and the phone number is <Phone=\"01223332138\">",
+        "MUL1049_B3": "Of course . It is located in the <Area=\"town centre\"> , on <Addr=\"King 's Parade\"> . The cost is <Fee=\"2 pounds\"> and you can call them at <Phone=\"01223338000\"> .",
+        "PMUL3486_B6": "The phone number is <Phone=\"01223334200\"> . I can also tell you that there is <Fee=\"no entrance fee\"> and its located in <Area=\"centre\"> on <Addr=\"saint andrew 's street\"> .",
+        "PMUL4679_B6": "It is located at <Addr=\"5 Greens Road\"> in the <Area=\"centre area of town\"> . The phone number is <Phone=\"01223902168\"> . The admission is <Fee=\"free\"> ."
+    },
+    "Attraction-Inform:Addr,Area,Fee,Post": {
+        "MUL1901_B1": "It is located in the <Area=\"centre\"> . The address is <Addr=\"market square\"> . Postcode is <Post=\"cb23pq\"> . The entrance fee is <Fee=\"2 pounds\"> .",
+        "PMUL1278_B2": "it is located in <Addr=\"wollaston road\"> , <Post=\"cb12ew\"> . entry is <Fee=\"free\"> and is in the <Area=\"centre\"> .",
+        "PMUL4741_B6": "Yes , it is located in the <Area=\"west area\"> and has the postcode <Post=\"CB30AG\"> . It is on <Addr=\"Magdalene Street\"> and has a <Fee=\"free\"> entrance fee .",
+        "PMUL4751_B2": "Sure , it 's located in the <Area=\"east\"> and is on <Addr=\"cherry hinton hall , cherry hinton road\"> . The postcode is <Post=\"cb18dw\"> . It 's also <Fee=\"free\"> admission ."
+    },
+    "Attraction-Inform:Addr,Area,Fee,Type": {
+        "MUL0426_B1": "Why yes , it 's a great attraction . It is located at the <Area=\"centre\"> on <Addr=\"downing street\"> . The entrance fee for the <Type=\"museum\"> is <Fee=\"free\"> .",
+        "MUL0432_B5": "No problem . It is a <Type=\"nightclub\"> located in the <Area=\"centre\"> , located at <Addr=\"heidelberg gardens , lion yard\"> and charges a <Fee=\"5 pound\"> entrance fee .",
+        "MUL0493_B4": "It 's a <Type=\"museum\"> located in the <Area=\"centre of town\"> located on <Addr=\"gydir street , no . 5 dale 's brewery\"> , and admission is <Fee=\"free\"> .",
+        "MUL0594_B4": "Absolutely . It is a <Type=\"college\"> located in the <Area=\"centre\"> . It 's <Fee=\"free\"> to enter and it is located on <Addr=\"king 's parade\"> .",
+        "MUL1750_B1": "Yes , it is a beautiful place known for <Type=\"architecture\"> located in the <Area=\"centre area\"> . It is on <Addr=\"market square\"> and has an entrance fee of <Fee=\"2 pounds\"> ."
+    },
+    "Attraction-Inform:Addr,Area,Name,Phone": {
+        "MUL0490_B5": "Yes , <Name=\"Kettle 's Yard\"> is in the <Area=\"west\"> area located at <Addr=\"castle street\"> . Their phone number is <Phone=\"01223748100\"> .",
+        "MUL0880_B5": "<Name=\"Tenpin\"> is located on the <Area=\"south side\"> , <Addr=\"cambridge leisure park , clifton way\"> . It 's phone number is <Phone=\"08715501010\"> .",
+        "MUL0952_B2": "<Name=\"Cineworld cinema\"> is in the <Area=\"south\"> of town , their phone number is <Phone=\"00872208000\"> , and they 're located at <Addr=\"cambridge leisure park , clifton way\">",
+        "MUL1156_B1": "Great choice ! <Name=\"The Cherry Hinton grounds\"> are located in the <Area=\"east\"> . It is located on <Addr=\"Cherry Hinton Road\"> . Their contact info is <Phone=\"01223446104\"> .",
+        "MUL1166_B5": "The <Name=\"Ballare\"> is in the <Area=\"centre of town\"> . It 's located at <Addr=\"Heidelberg Gardens , Lion Yard\"> . Their phone number is <Phone=\"01223364222\"> ."
+    },
+    "Attraction-Inform:Addr,Area,Name,Phone,Post": {
+        "MUL0420_B2": "<Name=\"Christ 's College\"> is located in the <Area=\"centre of cambridge\"> in postal code , <Post=\"cb23bu\"> . It is on <Addr=\"saint andrew 's street\"> . The phone number is <Phone=\"01223334900\"> .",
+        "MUL0474_B2": "Yes , <Name=\"parkside pools\"> is located at <Addr=\"gonville place\"> <Post=\"cb11ly\"> in the <Area=\"center are\"> . The phone number is <Phone=\"01223446100\"> .",
+        "MUL0529_B1": "<Name=\"Mumford theatre\"> is in the <Area=\"centre of town\"> their number is <Phone=\"08451962320\"> , their postcode is <Post=\"cb11pt\"> , and their address is <Addr=\"anglia ruskin enterprise , east road\">",
+        "MUL0531_B6": "<Name=\"Funky fun house\"> is located in the <Area=\"east side of town\"> , address is <Addr=\"8 mercers row , mercers row industrial estate\"> postcode <Post=\"cb58hy\"> , phone <Phone=\"01223304705\"> .",
+        "MUL0565_B2": "Sure , we have <Name=\"Milton Country Park\"> located in the <Area=\"north\"> in <Addr=\"Milton\"> . There phone number is <Phone=\"01223420060\"> & postcode is <Post=\"cb46az\"> ."
+    },
+    "Attraction-Inform:Addr,Area,Name,Phone,Post,Type": {
+        "MUL0536_B1": "Yes , <Name=\"Abbey pool and astroturf pitch\"> is a <Type=\"swimmingpool\"> <Area=\"east of town\"> . Their number is <Phone=\"01223902088\"> , and address is <Addr=\"pool way , whitehill road , off newmarket road\"> . Postcode <Post=\"cb58nt\"> .",
+        "MUL1931_B6": "<Name=\"Parkside Pools\"> is a <Type=\"swimming pool\"> located in the <Area=\"centre\"> of town . They are located at <Addr=\"Gonville Place\"> . Their postcode is <Post=\"cb11ly\"> . They can be reached at <Phone=\"01223446100\"> .",
+        "MUL2508_B6": "<Name=\"The Place\"> is a great <Type=\"nightclub\"> in the <Area=\"south\"> , located at <Addr=\"22 sidney street\"> , post code <Post=\"cb23hg\"> . The phone number is <Phone=\"01223324600\"> .",
+        "PMUL3718_B1": "<Name=\"All Saints Church\"> is a fine bit of <Type=\"architecture\"> in the <Area=\"center of Cambridge\"> . They are located on <Addr=\"Jesus Lane\"> , <Post=\"cb58bs\"> , and their phone is <Phone=\"01223452587\"> ."
+    },
+    "Attraction-Inform:Addr,Area,Name,Post,Type": {
+        "MUL1177_B1": "Absolutely ! <Name=\"Nusha\"> is an <Type=\"entertainment venue\"> in the <Area=\"south of town\"> , located in <Addr=\"Unit G6 , Cambridge Leisure Park , Clifton Road\"> , postcode <Post=\"cb17dy\"> .",
+        "MUL2584_B5": "<Name=\"The Cambridge Punter\"> is a <Type=\"boating attraction\"> in the <Area=\"center of town\"> . They are located at <Addr=\"251a Chesterton Road\"> in postcode <Post=\"cb41as\"> .",
+        "PMUL1194_B2": "<Name=\"Old Schools\"> is an <Type=\"architectural\"> attraction in the <Area=\"center of town\"> . They are located on <Addr=\"Trinity Lane\"> , in postcode <Post=\"cb21tt\"> .",
+        "PMUL2032_B5": "<Name=\"Scudamores\"> is a fun <Type=\"boat\"> attraction in the <Area=\"center of town\"> . They 're located at <Addr=\"Granta Place , Mill Lane\"> , <Post=\"cb21rs\"> .",
+        "PMUL3149_B5": "<Name=\"Tenpin\"> is an <Type=\"entertainment\"> venue in the <Area=\"south\"> . They are located at <Addr=\"Cambridge Leisure Park , Clifton Way\"> . Their postcode is <Post=\"cb17dy\"> . Their phone number is 08715501010 .",
+        "PMUL4688_B3": "<Name=\"Sheep 's Green and Lammas Land Park Fen Causeway\"> is a <Type=\"park\"> in the <Area=\"South\"> part of town at <Addr=\"Fen Causeway , Newnham Road\"> . The postcoe is <Post=\"CB22AD\"> ."
+    },
+    "Attraction-Inform:Addr,Area,Type": {
+        "MUL1812_B4": "Sure , it is a <Type=\"college\"> located in the <Area=\"centre\"> area right on <Addr=\"trumpington street\"> .",
+        "MUL1935_B6": "Well its <Type=\"architecture\"> located in the <Area=\"centre of cambridge\"> on <Addr=\"jesus lane\"> .",
+        "MUL2344_B5": "It 's a nice <Type=\"boating\"> attraction in the <Area=\"center\"> , located at <Addr=\"251a chesterton road\"> .",
+        "MUL2390_B3": "It 's a <Type=\"theatre\"> on <Addr=\"wheeler street\"> in the <Area=\"center part of town\"> .",
+        "MUL2451_B1": "That is a <Type=\"nightclub\"> at <Addr=\"1 Station Road\"> in the <Area=\"town centre\"> ."
+    },
+    "Attraction-Inform:Addr,Fee,Name,Phone,Post": {
+        "MUL0532_B3": "The <Name=\"Broughton House Gallery\"> is located at <Addr=\"98 King Street\"> , <Post=\"cb11ln\"> . Their phone number is <Phone=\"01223314960\"> , and it 's <Fee=\"free\"> to get in .",
+        "MUL0858_B5": "<Name=\"The Primavera\"> is located at <Addr=\"10 King S Parade\"> , postcode <Post=\"cb21sj\"> . The phone no . is <Phone=\"01223357708\"> . Admission is <Fee=\"free\"> !",
+        "MUL0950_B5": "<Name=\"Broughton House Gallery\"> . Phone number is <Phone=\"01223314960\"> . Located at <Addr=\"98 king street\"> postal code <Post=\"cb11In\"> . Entrance fee is <Fee=\"free\"> .",
+        "MUL1042_B2": "<Name=\"All Saints Church\"> is located on <Addr=\"Jesus Lane\"> . It is <Fee=\"free\"> to visit . The postcode is <Post=\"cb58bs\"> . And their phone number is <Phone=\"01223452587\"> .",
+        "MUL1083_B5": "<Name=\"The cherry hinton water play park\"> is at <Addr=\"cherry hinton hall , cherry hinton road\"> , <Post=\"cb18dw\"> , it is <Fee=\"free\"> to enter . Phone number <Phone=\"01223446100\"> ."
+    },
+    "Attraction-Inform:Addr,Fee,Name,Phone,Type": {
+        "MUL0417_B2": "<Name=\"Holy Trinity Church\"> is a <Fee=\"free\"> <Type=\"architecture\"> attraction . Their number is <Phone=\"01223355397\"> and they 're located at <Addr=\"Market Street\"> .",
+        "MUL1158_B2": "<Name=\"Christ 's College\"> is a <Fee=\"free\"> <Type=\"college\"> on <Addr=\"Saint Andrew 's street\"> . If you would like to call , the number is <Phone=\"01223334900\"> .",
+        "MUL2655_B4": "<Name=\"The cambridge book and print gallery\"> is at <Addr=\"49 newnham road\"> . It is a nice , <Fee=\"free\"> <Type=\"museum\"> . The phone number is <Phone=\"01223694264\"> .",
+        "PMUL1006_B3": "<Name=\"Broughton House Gallery\"> is a <Fee=\"free\"> <Type=\"museum\"> located at <Addr=\"98 king street\"> . Their phone number is <Phone=\"01223314960\"> ."
+    },
+    "Attraction-Inform:Addr,Fee,Name,Post,Type": {
+        "MUL0818_B6": "The <Name=\"Gallery At Twelve\"> A <Addr=\"High Street\"> is a <Type=\"museum\"> . Entry is <Fee=\"free\"> , and their postcode is <Post=\"cb15dh\"> .",
+        "MUL1087_B2": "<Name=\"Byard Art\"> is a <Type=\"museum\"> that has <Fee=\"free\"> admission . The address is <Addr=\"14 King 's Parade\"> and the postcode is <Post=\"cb21sj\"> .",
+        "PMUL2078_B1": "<Name=\"Ballare\"> is a <Type=\"nightclub\"> located on <Addr=\"heidelberg gardens , lion yard\"> , <Post=\"cb23na\"> . The entrance fee is <Fee=\"5 pounds\"> .",
+        "PMUL3361_B3": "Lets start with the attraction information first . <Name=\"Cherry Hinton Water Play\"> is a <Fee=\"free\"> <Type=\"park\"> located at <Addr=\"cherry hinton hall , cherry hinton road\"> and the postcode is <Post=\"cb18dw\"> ."
+    },
+    "Attraction-Inform:Addr,Name,Phone,Post,Type": {
+        "MUL0927_B4": "<Name=\"The Junction theater\"> is the only <Type=\"theater\"> in the area . It 's located on <Addr=\"Clifton way\"> , <Post=\"cb17gx\"> . If you would like to call their number is <Phone=\"01223511511\"> .",
+        "MUL0978_B4": "<Name=\"All Saints Church\"> is famous for its <Type=\"architecture\"> . It 's located on <Addr=\"Jesus Lane\"> , <Post=\"CB58BS\"> . They can be reached at <Phone=\"01223452587\"> .",
+        "PMUL1179_B5": "<Name=\"The Man on The Moon\"> <Type=\"concerthall\"> , <Addr=\"2 norfolk street\"> , <Post=\"cb12fl\"> . Their phone number is <Phone=\"01223474144\"> .",
+        "PMUL2163_B1": "There 's a place called the <Name=\"Man on the Moon\"> that is a great <Type=\"concert hall\"> . They are located at <Addr=\"2 Norfolk Street\"> . Postcode is <Post=\"cb12lf\"> . Their phone number is <Phone=\"01223474144\"> .",
+        "PMUL2637_B5": "<Name=\"The Cambridge University Botanic Gardens\"> is a <Type=\"park\"> nearby . Their phone is <Phone=\"01223336265\"> , the post code is <Post=\"cb21jk\"> , it 's located on <Addr=\"bateman street\"> .",
+        "PMUL3245_B2": "<Name=\"Little saint mary 's church\"> is an <Type=\"architecture site\"> , their address is <Addr=\"little saint mary 's lane\"> , and postcode is <Post=\"cb21qy\"> , and the phone number is <Phone=\"01223366202\">"
+    },
+    "Attraction-Inform:Addr,Name,Type": {
+        "MUL0576_B4": "<Name=\"Castle Galleries\"> is a <Type=\"museum\"> at <Addr=\"unit su43 , grande arcade , saint andrews street\"> .",
+        "MUL1816_B1": "Do you like <Type=\"boats\"> ? There is the <Name=\"cambridge punter\"> on <Addr=\"251a chesterton road\"> .",
+        "PMUL1060_B2": "The <Name=\"Scott Polar Museum\"> is a <Type=\"museum\"> located on <Addr=\"Lensfield Road\"> .",
+        "PMUL1217_B6": "The <Name=\"Cambridge university botanic gardens\"> are lovely this time of year . The <Type=\"gardens\"> are located on <Addr=\"Bateman street\"> .",
+        "PMUL2055_B5": "<Name=\"Tenpin\"> is <Type=\"great entertainment\"> located on <Addr=\"Cambridge Leisure Park , Clifton Way\"> ."
+    },
+    "Attraction-Inform:Addr,Phone,Type": {
+        "MUL1040_B2": "The address of the <Type=\"Museum\"> is <Addr=\"University of Cambridge , Downing Street\"> . The phone number is <Phone=\"01223333516\"> .",
+        "MUL1056_B1": "Yes it is an <Type=\"entertainment venue\"> and it is located at <Addr=\"cambridge leisure park , clifton way\"> . Their telephone number is <Phone=\"08715501010\"> .",
+        "PMUL2209_B1": "Yes , it is a <Type=\"park\"> located at <Addr=\"Cherry Hinton Hall , Cherry Hinton Road\"> . Phone is <Phone=\"01223446100\"> .",
+        "PMUL2986_B6": "Yes , the phone number is <Phone=\"01223902168\"> . Their address is <Addr=\"5 Greens road\"> and the type is a <Type=\"museum\"> ."
+    },
+    "Attraction-Inform:Area,Area,Area,Type": {
+        "MUL0547_B2": "The <Type=\"boat\"> attractions are located in the <Area=\"east\"> , <Area=\"north\"> and <Area=\"centre\"> areas .",
+        "PMUL1208_B5": "The <Type=\"entertainment\"> venues that I do have are located in the <Area=\"east\"> , <Area=\"south\"> and <Area=\"west\"> .",
+        "PMUL1279_B1": "I found <Type=\"swimmingpools\"> in the areas of <Area=\"east\"> , <Area=\"north\"> and <Area=\"centre\"> .",
+        "PMUL1443_B1": "There is <Type=\"boating\"> in the <Area=\"east\"> , <Area=\"north\"> , and in the <Area=\"centre\"> .",
+        "PMUL4382_B1": "There are <Type=\"entertainment\"> attractions in the <Area=\"east\"> , <Area=\"south\"> , and <Area=\"west\"> areas .",
+        "PMUL4883_B1": "Great ! I can help you with that . We have <Type=\"boats\"> located in the <Area=\"east\"> , <Area=\"north\"> , and <Area=\"centre\"> area ."
+    },
+    "Attraction-Inform:Area,Choice,Name,Type": {
+        "MUL0414_B4": "There is <Choice=\"one\"> <Type=\"park\"> in the <Area=\"centre\"> - <Name=\"the cambridge university botanic gardens\"> .",
+        "MUL1169_B8": "We have <Choice=\"44\"> attractions in the <Area=\"centre of town\"> <Name=\"Broughton House Gallery\"> is a <Type=\"museum\"> we have available .",
+        "MUL1957_B5": "I have <Choice=\"4\"> <Type=\"theaters\"> in the <Area=\"centre\"> area . The <Name=\"mumford\"> is one of my favorites .",
+        "MUL1975_B1": "I actually only have <Choice=\"1\"> <Type=\"concerthall\"> located in the <Area=\"centre of town\"> . It is called <Name=\"The Man On The Moon\"> .",
+        "MUL2449_B4": "Yes there is <Choice=\"1\"> <Type=\"park\"> in the <Area=\"same area\"> . It is <Name=\"Milton County Park\"> ."
+    },
+    "Attraction-Inform:Area,Choice,Type,Type,Type,Type": {
+        "MUL1921_B2": "There is a <Type=\"cinema\"> , <Choice=\"two\"> <Type=\"entertainment\"> places , a <Type=\"museum\"> , and a <Type=\"nightclub\"> in the <Area=\"south\"> .",
+        "PMUL1217_B4": "I have <Choice=\"lots\"> to do in the <Area=\"center\"> like , <Type=\"colleges\"> , <Type=\"theater\"> , <Type=\"cinema\"> and <Type=\"architecture\"> .",
+        "PMUL1385_B1": "<Choice=\"There 's so much to do\"> in the <Area=\"centre of town\"> . There are <Type=\"museums\"> , <Type=\"boats\"> , <Type=\"concerthall\"> , <Type=\"cinemas\"> .",
+        "PMUL2242_B3": "Sure , there are <Choice=\"many\"> things to do in the <Area=\"center of town\"> , <Type=\"colleges\"> , <Type=\"architecture\"> , <Type=\"museums\"> , <Type=\"theater\"> .",
+        "PMUL2710_B2": "There are <Choice=\"11\"> <Type=\"museums\"> in the <Area=\"centre\"> area . There is a <Type=\"science\"> museum , an <Type=\"art and antiques\"> museum , and 9 <Type=\"others\"> ."
+    },
+    "Attraction-Inform:Area,Fee,Name,Phone": {
+        "MUL0466_B2": "<Name=\"Holy trinity church\"> is in the <Area=\"centre of town\"> their number is <Phone=\"01223355397\"> and they have a <Fee=\"free\"> entrance fee .",
+        "MUL0947_B2": "The <Name=\"broughton house gallery\"> is located in the <Area=\"centre\"> is <Fee=\"free\"> to enter and the phone number is <Phone=\"01223314960\"> .",
+        "MUL1788_B5": "Sure , there 's <Name=\"club salsa\"> in the <Area=\"centre\"> , their phone number is <Phone=\"07782218745\"> and the entrance fee is <Fee=\"5 pounds\"> .",
+        "MUL1794_B2": "<Name=\"The Milton Country Park\"> has <Fee=\"free\"> admission . They are located on the <Area=\"North\"> and the phone number is <Phone=\"01223420060\"> .",
+        "MUL1951_B6": "I have the <Name=\"byard art museum\"> in the <Area=\"south\"> . The phone number is <Phone=\"01223464646\"> and it is <Fee=\"free\"> to enter ."
+    },
+    "Attraction-Inform:Area,Fee,Phone,Type": {
+        "MUL0872_B1": "Of course , it 's a <Type=\"park\"> located in the <Area=\"north\"> area of town and has <Fee=\"no entrance fee\"> . The phone number there is <Phone=\"01223420060\">",
+        "MUL0997_B1": "Sure ! It is a <Type=\"museum\"> in the <Area=\"centre\"> and is <Fee=\"free\"> to enter . The phone number is <Phone=\"01223311687\"> .",
+        "PMUL1298_B5": "<Phone=\"01223336540\"> It is a <Type=\"museum\"> in the <Area=\"center\"> . It is <Fee=\"free\"> to get in .",
+        "PMUL2895_B1": "Certainly , it is a <Type=\"museum\"> on a <Area=\"went side of town\"> with <Fee=\"free admission\"> , they can be reached at <Phone=\"01223295264\"> ."
+    },
+    "Attraction-Inform:Area,Fee,Type": {
+        "MUL0533_B2": "It is a <Type=\"college\"> in the <Area=\"centre of town\"> . There is <Fee=\"no entrance fee\"> .",
+        "MUL0901_B5": "It 's a <Type=\"college\"> located in the <Area=\"centre area\"> . <Fee=\"No entrance fee\"> needed !",
+        "MUL1108_B5": "Certainly . That 's one of our <Fee=\"free\"> <Type=\"museums\"> over on the <Area=\"west side of town\"> .",
+        "MUL1911_B1": "That 's a great spot for <Type=\"nightlife\"> ! It 's located in the <Area=\"city centre\"> and they only charge <Fee=\"4 pounds\"> for their entrance fee .",
+        "MUL2323_B4": "It 's a wonderful <Type=\"museum\"> in the <Area=\"centre\"> , and it has <Fee=\"free\"> admission ."
+    },
+    "Attraction-Inform:Area,Name,Phone": {
+        "MUL0582_B2": "The <Name=\"Cineworld Cinema\"> is in the <Area=\"South\"> part of town . Their phone number is <Phone=\"00872208000\"> .",
+        "MUL0851_B4": "The <Name=\"Ruskin Gallery\"> is in the <Area=\"centre\"> area and the phone number is <Phone=\"01245493131\"> .",
+        "MUL0861_B1": "<Name=\"The vue cinema\"> is located in the <Area=\"centre of the city\"> and the phone number is <Phone=\"08712240240\"> .",
+        "MUL0907_B4": "Yes , <Name=\"Whale of a Time\"> is located in the <Area=\"west part of town\"> , phone number is <Phone=\"01954781018\"> .",
+        "MUL1709_B3": "<Name=\"queens ' college\"> is pretty great . It 's in the <Area=\"west\"> . Their number is <Phone=\"01223335511\"> ."
+    },
+    "Attraction-Inform:Area,Name,Phone,Type": {
+        "MUL0528_B1": "<Name=\"tenpin\"> is an <Type=\"entertainment\"> facility located in <Area=\"south\"> cambridge . their phone number is <Phone=\"871 550 1010\"> .",
+        "MUL0929_B5": "<Name=\"Saint John 's College\"> is a <Type=\"College\"> located in the <Area=\"centre of town\"> . The phone number is <Phone=\"01223338600\"> .",
+        "MUL0991_B1": "The <Name=\"Saint Barnabas Press Gallery\"> is a <Type=\"museum\"> in the <Area=\"east area of town\"> . The phone number is <Phone=\"01223902116\"> .",
+        "MUL1033_B6": "The only <Type=\"sports center\"> in the <Area=\"east\"> is <Name=\"The Cherry Hinton Village Centre\"> . The phone number is <Phone=\"01223576412\"> .",
+        "MUL1063_B4": "The <Name=\"Riverboat Georgina\"> is a <Type=\"boat\"> located in the <Area=\"north\"> . Their phone number is <Phone=\"01223902091\"> ."
+    },
+    "Attraction-Inform:Area,Phone": {
+        "MUL0878_B6": "Yes , this is in the <Area=\"centre\"> area . The phone number is <Phone=\"01223324222\"> .",
+        "MUL2409_B2": "It is located in the <Area=\"south\"> and the phone number is <Phone=\"01223243830\"> .",
+        "PMUL1231_B2": "Absolutely ! It 's located in the <Area=\"north\"> and the phone number is <Phone=\"01223353248\"> .",
+        "PMUL1237_B2": "Sure , the phone number is <Phone=\"01223314960\"> . It is located in the <Area=\"centre area\"> .",
+        "PMUL1241_B6": "It 's located in the <Area=\"centre of town\"> . The phone number is <Phone=\"01223474144\"> ."
+    },
+    "Attraction-Inform:Area,Phone,Post": {
+        "MUL1081_B2": "The phone number is <Phone=\"01223332360\"> , postcode is <Post=\"cb39al\"> , and the area is <Area=\"west\">",
+        "MUL1165_B2": "Sure , it is in the <Area=\"town centre\"> with a postcode of <Post=\"cb23dz\"> . You can call them at <Phone=\"01223333516\"> .",
+        "MUL1946_B6": "The area is the <Area=\"centre\"> . The postcode is <Post=\"cb23ap\"> and the phone number is <Phone=\"01223334200\"> .",
+        "MUL2417_B6": "Sure ! The phone number is <Phone=\"01223452587\"> , the postcode is <Post=\"cb58bs\"> , and that is in the <Area=\"centre\"> area .",
+        "PMUL2182_B2": "This is found in the <Area=\"center of town\"> . Their phone number is <Phone=\"01223350914\"> and their postcode is <Post=\"cb23pq\"> .",
+        "PMUL4755_B2": "<Phone=\"01223357708i\"> is the phone , <Post=\"cb21sj\"> is the postcodein the <Area=\"centry area\">"
+    },
+    "Attraction-Inform:Area,Phone,Type": {
+        "MUL2386_B4": "Of course . It is a <Type=\"museum\"> in the <Area=\"centre\"> . Their phone number <Phone=\"01223365454\"> .",
+        "PMUL2648_B1": "This is a <Type=\"swimming pool\"> found in the <Area=\"East\"> . Their phone number is <Phone=\"01223902088\"> .",
+        "PMUL4169_B1": "It is a <Type=\"multiple sports venue\"> on the <Area=\"east side of town\"> . The phone number is <Phone=\"01223576412\"> .",
+        "PMUL4896_B6": "Sure , that 's a great <Type=\"entertainment venue\"> in the <Area=\"East\"> . Their phone number is <Phone=\"01223446104\"> ."
+    },
+    "Attraction-Inform:Choice,Fee,Type": {
+        "PMUL1154_B2": "<Choice=\"Most\"> of the <Type=\"colleges\"> in town have <Fee=\"free\"> entrance fees .",
+        "PMUL2954_B3": "Yes , there <Choice=\"several\"> <Type=\"colleges\"> available . Most have <Fee=\"free\"> entry .",
+        "PMUL3296_B5": "<Choice=\"All the other\"> <Type=\"museums\"> are <Fee=\"free\"> .",
+        "PMUL3563_B5": "There are <Choice=\"11\"> <Type=\"museums\"> is that area . The great thing is they are all <Fee=\"free\"> .",
+        "PMUL3667_B3": "There are <Choice=\"a number of\"> <Fee=\"free\"> <Type=\"museums\"> .",
+        "PMUL3899_B5": "There are <Choice=\"23\"> <Type=\"museum\"> , <Fee=\"most of which are free\"> admission ."
+    },
+    "Attraction-Inform:Choice,Name": {
+        "MUL0903_B5": "There are <Choice=\"several\"> . <Name=\"Vue Cinema\"> is a popular attraction .",
+        "MUL0903_B6": "There are <Choice=\"11\"> found . how about the <Name=\"broughton house gallery\"> ?",
+        "MUL1144_B8": "Yes certainly . We have <Choice=\"several\"> . <Name=\"Christ College\"> is a good choice .",
+        "MUL2552_B6": "We have <Choice=\"4\"> available for you . The <Name=\"ADC Theatre\"> is nice .",
+        "PMUL1086_B1": "I have <Choice=\"one\"> listing for <Name=\"abbey pool and astroturf pitch\"> ."
+    },
+    "Attraction-Inform:Choice,Name,Name,Name,Name": {
+        "MUL1913_B4": "I have <Choice=\"many\"> options ! <Name=\"Cage jello gallery\"> , <Name=\"cambridge and couny folk museum\"> , <Name=\"kettle 's yard\"> and <Name=\"lynne strover gallery\"> to name a few .",
+        "MUL2356_B2": "There are <Choice=\"4\"> . <Name=\"Cambridge artworks\"> , <Name=\"cambridge museum of technology\"> , <Name=\"gallery at twelve high st\"> , and <Name=\"st barnabas press gallery\"> .",
+        "MUL2662_B8": "Yes , <Choice=\"several\"> . <Name=\"The ADC Theatre\"> , <Name=\"the Cambridge Arts Theatre\"> , <Name=\"Mumford Theatre\"> , <Name=\"and The Cambridge Corn Exchange\"> .",
+        "PMUL2364_B2": "There are <Choice=\"four\"> theatres in Centre : <Name=\"ADC Theatre\"> , <Name=\"Cambridge Arts Theatre\"> , <Name=\"Mumford Theatre\"> and <Name=\"The Cambridge Corn Exchange\"> .",
+        "PMUL4005_B4": "There are <Choice=\"13\"> , <Name=\"christ 's college\"> , <Name=\"corpus christi\"> , <Name=\"downing college\"> , <Name=\"emmanuel college\"> , and many others .",
+        "SNG1108_B3": "Oh , my . I do apologize . I was wrong . There are <Choice=\"5\"> different nightclubs available . <Name=\"The Ballare\"> , <Name=\"Club Salsa\"> , <Name=\"Kambar\"> , <Name=\"the Soul Tree and The Fez Club\"> ."
+    },
+    "Attraction-Inform:Fee,Name,Phone,Post": {
+        "MUL0834_B5": "<Name=\"Christ 's College\"> is <Fee=\"free\"> . The phone number is <Phone=\"01223334900\"> and the postcode is <Post=\"cb23u\"> .",
+        "MUL0886_B3": "Sure , the post code to <Name=\"king 's college\"> is <Post=\"cb21st\"> , the entrance fee is <Fee=\"free\"> , and phone number <Phone=\"01223331100\">",
+        "MUL1137_B6": "<Name=\"Churchill College\"> is <Fee=\"free\"> . The phone number is <Phone=\"01223336233\"> and the postcode is <Post=\"cb30ds\"> .",
+        "MUL1162_B2": "<Name=\"Club Salsa\"> is a great nightclub in the area . Their phone number is <Phone=\"07782218745\"> . Their postcode is <Post=\"cb12jb\"> . Their entrance fee is currently <Fee=\"5 pounds\"> .",
+        "MUL2597_B3": "My favorite is the <Name=\"Cambridge Contemporary Art Museum\"> and their phone number is <Phone=\"01223324222\"> and the post code is <Post=\"cb21su\"> . Admission is <Fee=\"free\"> ."
+    },
+    "Attraction-Inform:Fee,Name,Type": {
+        "MUL0429_B3": "<Name=\"Cambridge University Botanic Gardens\"> cost <Fee=\"4 pounds\"> , and is a <Type=\"park\"> type attraction .",
+        "MUL0437_B5": "I have found <Name=\"gonville\"> and <Type=\"college\"> . It is <Fee=\"free\"> to get in .",
+        "MUL0504_B2": "<Name=\"the broughton house gallery\"> <Type=\"museum\"> offers <Fee=\"free\"> admission .",
+        "MUL0577_B2": "How about <Name=\"Old Schools\"> ? It 's an <Type=\"architecture\"> attraction that 's <Fee=\"free\"> .",
+        "MUL0888_B5": "<Name=\"All Saints Church\"> is an <Type=\"architecture\"> type of attraction . It is <Fee=\"free\"> to enter ."
+    },
+    "Attraction-Inform:Fee,Type": {
+        "MUL0581_B2": "This is a <Type=\"college\"> type attraction with <Fee=\"no entrance fee\"> .",
+        "MUL0824_B2": "The <Type=\"churches\"> are <Fee=\"free\"> .",
+        "MUL2373_B2": "It 's the <Type=\"architecture\"> type and there is a <Fee=\"2 pound\"> entrance fee .",
+        "MUL2380_B4": "Yes the <Type=\"college\"> entrance is <Fee=\"free\"> .",
+        "MUL2445_B3": "The <Type=\"park\"> is <Fee=\"free\"> ."
+    },
+    "Attraction-Inform:Name,Name,Name,Name,Name": {
+        "PMUL1222_B6": "<Name=\"cherry hinton hall and grounds\"> , <Name=\"funky fun house\"> , <Name=\"tenpin\"> , <Name=\"nusha\"> , and <Name=\"whale of a time\"> are your options",
+        "PMUL2082_B4": "Certainly . There are ; <Name=\"Cherry Hinton Hall and Grounds\"> , <Name=\"Funky Fun House\"> , <Name=\"Nusha\"> , <Name=\"Tenpin\"> and <Name=\"Whale of a Time\"> .",
+        "PMUL2292_B1": "We have <Name=\"the cambridge arts theatre\"> , <Name=\"the adc theatre\"> , <Name=\"mumford theatre\"> , <Name=\"the cambridge corn exhange\"> , and <Name=\"the junction\"> .",
+        "PMUL2391_B1": "Sure , <Name=\"there is churchill\"> , <Name=\"clare\"> , <Name=\"clare hall\"> , <Name=\"magdalene\"> , and <Name=\"queens ' college\"> .",
+        "PMUL2433_B1": "There is the <Name=\"ADC Theatre\"> , <Name=\"Cambridge Arts Theatre\"> , <Name=\"Mumford Theatre\"> , <Name=\"The Cambridge Corn Exchange\"> , and <Name=\"The Junction\"> .",
+        "PMUL4089_B6": "In addition to <Name=\"Pembroke College\"> that we mentioned earlier , there 's <Name=\"Christ 's College\"> , <Name=\"Downing College\"> , <Name=\"Jesus College\"> , <Name=\"Sidney Sussex College\"> , and others ."
+    },
+    "Attraction-Inform:Name,Name,Phone,Phone": {
+        "MUL0597_B5": "Absolutely you can ! <Name=\"Sheep 's Green and Lammas Land Park Fen Causeway\"> can be reached at <Phone=\"01223302580\"> and you can dial <Phone=\"01223243830\"> to get in touch with <Name=\"Wandlebury Country Park\"> .",
+        "MUL0920_B2": "<Name=\"Sidney Sussex\"> is <Phone=\"01223338800\"> , and <Name=\"Gonville and Caius\"> is <Phone=\"01223332400\">",
+        "MUL0965_B4": "The phone numbers are <Phone=\"01223902158\"> for <Name=\"nusha\"> and <Phone=\"08715501010\"> for <Name=\"tepin\"> .",
+        "SNG1141_B2": "The phone number for <Name=\"Jesus Green\"> is <Phone=\"01223302579\"> , and the number for <Name=\"Kings Hedges\"> is <Phone=\"01223353248\"> .",
+        "SNG1142_B2": "The phone number for <Name=\"Churchill College\"> is <Phone=\"01223336233\"> , and the phone number for <Name=\"Magdalene College\"> is <Phone=\"01223332138\"> ."
+    },
+    "Attraction-Inform:Phone,Type": {
+        "MUL1981_B5": "It is listed as <Type=\"architecture\"> , and their phone number is <Phone=\"01223452587\">",
+        "MUL2494_B2": "Sure , I 'd be happy to provide that information to you . The phone number is <Phone=\"01223338100\"> and it is a <Type=\"college\"> type of attraction .",
+        "PMUL2669_B7": "The attraction is a <Type=\"museum\"> and the number is <Phone=\"01223902168\"> .",
+        "PMUL2704_B3": "I 'm sorry , our service ca n't book <Type=\"museums\"> but their phone is <Phone=\"01223368650\"> .",
+        "PMUL2738_B4": "The <Type=\"college\"> can be reached at <Phone=\"01223332400\"> . Please let me know if you need anything else .",
+        "PMUL4735_B2": "They 're classed as a <Type=\"park\"> , and their number is <Phone=\"01223336265\"> ."
+    },
+    "Attraction-Inform:Type,Type,Type": {
+        "MUL0497_B1": "There are <Type=\"churches\"> , <Type=\"colleges\"> , and <Type=\"museums\"> .",
+        "MUL0574_B2": "There are <Type=\"old churches\"> , <Type=\"colleges\"> , and <Type=\"art museums\"> .",
+        "MUL1173_B4": "There is <Type=\"swimming\"> , <Type=\"boating\"> , <Type=\"and a park\"> .",
+        "MUL1966_B1": "I would be happy to help you with that ! We have <Type=\"colleges\"> , <Type=\"museums\"> , and <Type=\"entertainment attractions\"> in that area .",
+        "MUL2489_B5": "It 's an <Type=\"entertainment\"> venue . I also have <Type=\"museums\"> and <Type=\"colleges\"> , if that 's more to your interests ."
+    },
+    "Attraction-Inform:Type,Type,Type,Type,Type,Type": {
+        "MUL1825_B2": "There are <Type=\"museums\"> , a <Type=\"park\"> , a <Type=\"pool\"> , <Type=\"multiple sports\"> , <Type=\"entertainment venues\"> , and a <Type=\"boat\"> . Do any of these sound fun ? Personally , I think the <Type=\"boat\"> is a lot of fun .",
+        "PMUL1369_B1": "I absolutely can ! What type of entertainment are you looking for . There are <Type=\"museums\"> , <Type=\"cinemas\"> , <Type=\"nightclubs\"> , <Type=\"entertainment events\"> , <Type=\"theatres\"> , and <Type=\"parks\"> .",
+        "PMUL2211_B1": "Yes , there 's <Type=\"entertainment\"> , <Type=\"museums\"> , <Type=\"boats\"> , <Type=\"swimming pools\"> , <Type=\"parks\"> , <Type=\"multiple sports\"> .",
+        "PMUL2975_B2": "You have <Type=\"boat\"> , <Type=\"entertainment\"> , <Type=\"museum\"> , <Type=\"mutliple sports\"> , <Type=\"park\"> and <Type=\"swimmingpool\"> to choose from .",
+        "PMUL3196_B5": "There are <Type=\"museums\"> , <Type=\"architecture\"> , <Type=\"colleges\"> , <Type=\"theater\"> , <Type=\"cinema\"> , <Type=\"boat tour\"> . Doers anything interest you in particular .",
+        "PMUL3357_B1": "Anything specific ? There are <Type=\"museums\"> , <Type=\"entertainment\"> , <Type=\"boats\"> , a <Type=\"park\"> , <Type=\"multiple sports\"> , a <Type=\"pool\"> ."
+    },
+    "Attraction-Inform:none": {
+        "MUL1412_B2": "Yes , they both are .",
+        "MUL1755_B1": "I was able to find it , what information would you like about it today ?",
+        "MUL1853_B7": "Attractions are one thing we ca n't book for you , unfortunately . Is there anything else you need today ?",
+        "MUL1883_B8": "That is the street address . I do n't have any further information .",
+        "MUL2592_B5": "Sure !"
+    },
+    "Attraction-Recommend:Addr,Area,Fee,Name": {
+        "MUL0442_B4": "How about <Name=\"Christ 's college\"> in the <Area=\"Centre\"> at <Addr=\"Saint Andrew 's street\"> ? Admission is <Fee=\"free\"> .",
+        "MUL1830_B2": "<Name=\"All Saints church\"> is located on <Addr=\"Jesus Lane\"> in the <Area=\"centre\"> . It has <Fee=\"free\"> admission .",
+        "MUL1840_B5": "<Name=\"Churchhill College\"> is a very nice place to visit and the entrance fee is <Fee=\"free\"> . It is located in the <Area=\"west\"> , on <Addr=\"Storey 's Way\"> .",
+        "MUL1857_B6": "The <Name=\"broughton house gallery\"> is popular and it is <Fee=\"free\"> . It is in the <Area=\"center\"> of town at <Addr=\"98 king street\"> .",
+        "MUL1863_B2": "I really like <Name=\"Camboats\"> . They are located in the <Area=\"East\"> at <Addr=\"The Plough , Green End , Fen Ditton\"> . There is <Fee=\"no entrance fee\"> ."
+    },
+    "Attraction-Recommend:Addr,Area,Name,Phone": {
+        "MUL2334_B5": "<Name=\"The Riverboat Georgina\"> may interest you then it is located at <Addr=\"Cambridge Passenger Cruisers , Jubilee House\"> in the <Area=\"North\"> with a phone number of <Phone=\"01223902091\"> .",
+        "MUL2522_B2": "Ok , I recommend <Name=\"parkside pools\"> in the <Area=\"centre of town\"> , they are located on <Addr=\"gonville place\"> and are reachable at <Phone=\"01223446100\"> .",
+        "PMUL1198_B2": "I would recommend the <Name=\"museum of classical archaeology\"> . It 's in the <Area=\"west side\"> on <Addr=\"sidgwick avenue\"> . The phone number is <Phone=\"01223335153\"> .",
+        "PMUL3850_B7": "How about <Name=\"King 's College\"> in <Area=\"centre\"> . Address is <Addr=\"King 's parade\"> , phone <Phone=\"01223331100\"> ."
+    },
+    "Attraction-Recommend:Addr,Fee,Name,Phone,Post": {
+        "MUL0517_B6": "OK , how about <Name=\"Cambridge Artworks\"> , the phone number is <Phone=\"01223902168\"> , the address is <Addr=\"5 Greens Road\"> , the postcode is <Post=\"cb13ef\"> , and it 's <Fee=\"free\"> !",
+        "PMUL1107_B9": "I recommend great <Name=\"saint mary 's church\"> , they are at <Addr=\"market square\"> , postal <Post=\"cb23pq\"> , phone is <Phone=\"01223350914\"> , entrance fee is <Fee=\"2 pounds\"> but it is worth the admission .",
+        "PMUL1277_B8": "<Name=\"Pembroke college\"> will blow your mind , <Fee=\"free\"> adminssion located at <Addr=\"trumpington street\"> , postal <Post=\"cb21rf\"> , phone <Phone=\"01223338100\"> .",
+        "PMUL2920_B7": "How about <Name=\"churchill college\"> ? It 's address is <Addr=\"storey 's way\"> , their postcode is <Post=\"cb30ds\"> , phone number is <Phone=\"01223336233\"> , and entrance is <Fee=\"free\"> .",
+        "PMUL3273_B4": "Okay <Name=\"Churchill College\"> is <Fee=\"free\"> and their address is <Addr=\"Storey 's Way\"> , their postcode is <Post=\"cb30ds\"> and their phone number is <Phone=\"01223336233\"> ."
+    },
+    "Attraction-Recommend:Addr,Name,Phone": {
+        "MUL0407_B2": "I recommend <Name=\"the mumford theatre\"> , their phone number is <Phone=\"08451962320\"> and their address is <Addr=\"anglia ruskin enterprise , east road\"> .",
+        "MUL0543_B2": "I 'd recommend the <Name=\"Castle Galleries\"> their phone number is <Phone=\"01223307402\"> and address is <Addr=\"unit su43 , grande arcade , saint andrews street\">",
+        "MUL2518_B2": "I 'd recommend the <Name=\"broughton house gallery\"> on <Addr=\"98 king street\"> . Their phone number is <Phone=\"01223314960\"> .",
+        "MUL2626_B8": "I would recommend the <Name=\"funky fun house\"> , they are located at <Addr=\"8 mercers row , mercers row industrial estate\"> and reachable at <Phone=\"01223304705\">",
+        "PMUL1121_B6": "I suggest <Name=\"the Old Schools\"> . The address is <Addr=\"Trinity Lane\"> and the phone number is <Phone=\"01223332320\"> ."
+    },
+    "Attraction-Recommend:Addr,Name,Phone,Post": {
+        "MUL1866_B3": "There are numerous , would you be interested in this one ? <Name=\"ADC Theatre\"> , phone - <Phone=\"1223300085\"> , postcode - <Post=\"cb58as\"> , address - <Addr=\"park street\"> .",
+        "MUL1919_B9": "<Name=\"Wandlebury Country Park\"> is spectacular . The address is <Addr=\"Wandlebury ring , gog magog hills , babraham\"> postal code <Post=\"CB223ae\"> . Phone number <Phone=\"0122324830\"> .",
+        "MUL2448_B1": "Yes the <Name=\"Riverboat Georgina\"> at <Addr=\"Cambridge Passenger Cruisers , Jubilee House\"> postcode <Post=\"cb43ax\"> is beautiful . The phone number is <Phone=\"01223902091\"> if you would like to call for more information .",
+        "MUL2698_B2": "I would recommend <Name=\"Camboats\"> . They are located at the <Addr=\"Plough , Green End , Fen Ditton\"> . Their phone number is <Phone=\"01223902112\"> . Their postcode is <Post=\"cb58sx\"> .",
+        "PMUL1072_B2": "i would recommend <Name=\"primavera\"> located in <Addr=\"10 king s parade\"> , <Post=\"cb21sj\"> . phone number is <Phone=\"01223357708\"> ."
+    },
+    "Attraction-Recommend:Area,Fee,Name,Type": {
+        "MUL1153_B1": "I would recommend <Name=\"cambridge artworks\"> , it is a <Type=\"museum\"> in the <Area=\"east\"> and has <Fee=\"free\"> entrance .",
+        "MUL1718_B2": "How about <Name=\"Cambridge Artworks\"> ? It 's a <Type=\"museum\"> on the <Area=\"east\"> side of town , and they have <Fee=\"no entrance fee\"> .",
+        "MUL1813_B1": "<Name=\"The Cafe Jello Gallery\"> is a great <Type=\"museum\"> on the <Area=\"west side\"> , and it 's <Fee=\"free\"> to get in .",
+        "MUL2433_B5": "I recommend <Name=\"Cambridge Artworks\"> , which is a <Fee=\"free\"> <Type=\"museum\"> in the <Area=\"same part of town as your restaurant\"> .",
+        "MUL2636_B1": "the <Name=\"broughton house gallery\"> is a fantastic <Type=\"museum\"> in the <Area=\"centre\"> . Bonus , it 's <Fee=\"free\"> !"
+    },
+    "Attraction-Recommend:Fee,Name,Phone,Type": {
+        "MUL1143_B2": "I recommend <Name=\"all saints church\"> . It is some nice <Type=\"architecture\"> . There is <Fee=\"no entrance fee\"> and the phone number is <Phone=\"01223452587\"> .",
+        "MUL2469_B2": "All right . <Name=\"Great saint mary 's church\"> is one our many churches famous for <Type=\"Architecture\"> . It 's <Fee=\"2 pounds\"> to get in , and their number is <Phone=\"01223350914\"> .",
+        "PMUL2167_B3": "I would suggest <Name=\"all saints church\"> . It is an <Type=\"architecture\"> attraction . Their phone number is <Phone=\"01223452587\"> and the entry is <Fee=\"free\"> .",
+        "PMUL2564_B1": "I will recommend <Name=\"Primavera\"> <Type=\"museum\"> . Their entrance fee is <Fee=\"free\"> and you can reach them on <Phone=\"01223357708\">",
+        "PMUL3522_B3": "<Name=\"clare hall\"> is a great <Type=\"college\"> and admission is <Fee=\"free\"> . The phone number is <Phone=\"01223332360\"> ."
+    },
+    "Attraction-Recommend:Fee,Name,Type": {
+        "MUL0978_B3": "Certainly . You might enjoy <Name=\"All Saints Church\"> . It 's famous for its <Type=\"architecture\"> , and <Fee=\"free\"> to visit .",
+        "MUL2395_B2": "Great ! How about <Name=\"All Saints Church\"> ? It has fantastic <Type=\"architecture\"> and <Fee=\"free\"> entrance . Would you like more information ?",
+        "PMUL1359_B5": "What about a <Type=\"museum\"> ? The <Name=\"regency gallery\"> is amazing and it 's <Fee=\"free\"> !",
+        "PMUL2352_B8": "<Name=\"clare hall\"> is a <Type=\"college\"> with <Fee=\"free\"> admission .",
+        "PMUL2669_B6": "Okay , I recommend <Name=\"cambridge artworks\"> . It is a <Type=\"museum\"> type attraction , and entrance is <Fee=\"free\">"
+    },
+    "Attraction-Recommend:Name,Name": {
+        "MUL0450_B5": "How about <Name=\"Vue Cinema\"> ? Or the <Name=\"mumford theatre\"> ?",
+        "MUL0810_B2": "Well , we have <Name=\"camboats\"> and the <Name=\"cambridge museum of technology\"> , both of which are interesting places .",
+        "MUL1011_B1": "I could recommend <Name=\"christ 's college\"> or <Name=\"corpus christi\"> .",
+        "MUL1092_B1": "May I suggest either <Name=\"The Cambridge Arts Theater\"> or <Name=\"Mumford Theater\"> ?",
+        "MUL1166_B4": "Can I suggest <Name=\"Ballare\"> or <Name=\"Soul Tree Nightclub\"> ?"
+    },
+    "Attraction-Recommend:Name,Phone": {
+        "MUL1727_B2": "<Name=\"Club Salsa\"> is a nice one , phone is <Phone=\"07782218745\"> .",
+        "MUL1987_B3": "<Name=\"Broughton house gallery\"> looks good their number is <Phone=\"01223314960\">",
+        "PMUL1182_B2": "I recommend the <Name=\"cambridge corn exchange\"> there phone number is <Phone=\"01223357851\"> .",
+        "PMUL1429_B3": "Yes , <Name=\"kings hedges learner pool\"> is really nice . Their number is <Phone=\"01223353248\"> .",
+        "PMUL2089_B2": "I would recommend <Name=\"Broughton House Galley\"> . Here is their phone number : <Phone=\"01223314960\">"
+    },
+    "Attraction-Recommend:Name,Phone,Post": {
+        "MUL0808_B2": "There is the <Name=\"Holy Trinity Church\"> . Their phone number is <Phone=\"01223355397\"> . The post code is <Post=\"cb23nz\"> .",
+        "MUL0816_B2": "Of course . How about <Name=\"Saint Catharine 's College\"> , in postcode <Post=\"cb21rl\"> ? Phone is <Phone=\"01223338300\"> .",
+        "MUL0948_B5": "<Name=\"Kettle 's Yard\"> is great . Their phone number is <Phone=\"01223748100\"> . The postcode is <Post=\"cb30aq\"> .",
+        "MUL2347_B7": "There is <Name=\"Downing College\"> , post code <Post=\"cb21dq\"> , and phone number <Phone=\"01223334860\"> .",
+        "MUL2363_B6": "Personally , I love the <Name=\"Museum of Archaeology and Anthropology\"> . The phone number is <Phone=\"01223333516\"> and the postcode is <Post=\"cb23dz\"> . Is there anything else I can help you with today ?"
+    },
+    "Attraction-Recommend:Name,Post": {
+        "MUL0444_B6": "Sure ! <Name=\"Cherry Hinton Water Play\"> is at postcode <Post=\"cb18dw\"> .",
+        "MUL0546_B3": "How about <Name=\"all saints church\"> ? The postcode is <Post=\"cb58bs\"> .",
+        "MUL1771_B6": "I recommend <Name=\"Whale of a time\"> and the post code is <Post=\"cb238el\">",
+        "MUL2361_B3": "You should go see <Name=\"Holy Trinity Church\"> , the stained glass there is simply amazing . The postcode is <Post=\"cb23nz\"> .",
+        "PMUL1124_B5": "<Name=\"Christ 's College\"> would be great , their postcode is <Post=\"cb23bu\"> ."
+    },
+    "Attraction-Recommend:Type": {
+        "MUL0572_B5": "Perhaps a <Type=\"museum\"> ?",
+        "MUL0921_B3": "We have many <Type=\"colleges\"> , some with an entrance free and some without .",
+        "MUL1803_B1": "All Saints Church has some lovely <Type=\"architecture\"> . Does that suit your needs ?",
+        "MUL1825_B2": "Personally , I think the <Type=\"boat\"> is a lot of fun .",
+        "MUL2455_B1": "Would a <Type=\"gastropub\"> work for you ?"
+    },
+    "Attraction-Select:Area,Area": {
+        "MUL2427_B2": "Would you prefer something in the <Area=\"center of town\"> , or in the <Area=\"South\"> ?",
+        "PMUL1090_B1": "Will you be in the <Area=\"centre\"> or <Area=\"south part of Cambridge\"> ?",
+        "PMUL1411_B1": "Do you prefer the <Area=\"south\"> or <Area=\"centre\"> of town ?",
+        "PMUL3082_B1": "Are you looking for one in the <Area=\"centre\"> or <Area=\"south\"> side of town ?",
+        "SNG1119_B1": "There are cinemas in the <Area=\"south\"> and <Area=\"centre\"> of town .",
+        "SNG1137_B1": "Yes , would you like to find a nightclub in the <Area=\"centre\"> or <Area=\"south\"> part of town ? Most of them are in the <Area=\"centre\"> ."
+    },
+    "Attraction-Select:Type,Type": {
+        "MUL0483_B2": "Are you interested in the <Type=\"theater\"> or perhaps the <Type=\"cinema\"> ?",
+        "MUL0844_B1": "Would you prefer a <Type=\"church\"> or a <Type=\"school\"> ?",
+        "MUL0845_B6": "Would you like a <Type=\"museum\"> , or a <Type=\"cinema\"> perhaps ?",
+        "MUL0893_B5": "Is there anywhere in particular that interests you ? Perhaps a <Type=\"cinema\"> or <Type=\"museum\"> ?",
+        "MUL2478_B6": "How about a <Type=\"cinema\"> or <Type=\"museum\"> ?"
+    },
+    "Attraction-Select:Type,Type,Type": {
+        "MUL0428_B2": "Would you prefer to go <Type=\"boating\"> , <Type=\"swimming\"> , or to <Type=\"visit a park\"> ?",
+        "MUL2324_B3": "Are you interested in the <Type=\"college\"> , <Type=\"entertainment\"> , or <Type=\"museum\"> type of attractions ?",
+        "MUL2363_B5": "Are interested in <Type=\"art\"> , <Type=\"archaeology\"> or <Type=\"the history of science\"> ?",
+        "PMUL1063_B4": "Would you be interested in a <Type=\"boat\"> , <Type=\"park\"> , or <Type=\"swimming pool\"> ?",
+        "PMUL1132_B5": "Would you be interested in a <Type=\"nightclub\"> , <Type=\"cinema\"> , <Type=\"theatre\"> , or another type of entertainment ?"
+    },
+    "Booking-Book:Day,Name,People,Stay": {
+        "MUL0051_B4": "I have booked the <Name=\"cityroomz hotel\"> for <Stay=\"2\"> nights , starting this <Day=\"Tuesday\"> , for <People=\"6\"> people .",
+        "MUL2227_B3": "I was able to book your party of <People=\"3\"> into <Name=\"Acorn Guest House\"> for <Stay=\"5\"> nights starting on <Day=\"Friday\"> .",
+        "MUL2545_B7": "I booked <Stay=\"3\"> nights for <People=\"5\"> people at <Name=\"university arms hotel\"> beginning <Day=\"friday\"> .",
+        "PMUL0397_B4": "I 've booked it ! You 'll be at <Name=\"alexander b & b\"> starting <Day=\"Thursday\"> for <People=\"6\"> people for <Stay=\"3\"> nights .",
+        "PMUL1937_B2": "Your reservation for <People=\"8\"> people , staying <Stay=\"3\"> nights , starting on <Day=\"Sunday\"> at <Name=\"Hobson House\"> was successful ."
+    },
+    "Booking-Book:Name,People,Ref": {
+        "MUL0237_B3": "Your table for <People=\"7\"> is reserved at <Name=\"Curry Garden\"> . Your reference number is : <Ref=\"2OZT0P7I\"> .",
+        "MUL0989_B5": "I 've successfully booked a table for <People=\"1\"> at <Name=\"Galleria\"> ! Your reference number is <Ref=\"QUI2WHRK\"> .",
+        "MUL2237_B3": "Your rooms for <People=\"6\"> have been reserved at <Name=\"the Lensfield Hotel\"> . Reference number : <Ref=\"P00B5C1R\"> .",
+        "MUL2289_B3": "Your rooms for <People=\"8\"> at the <Name=\"Cambridge Belfry\"> have been reserved . Your reference number is <Ref=\"0XQV7RNY\"> .",
+        "MUL2599_B4": "I was able to book your party of <People=\"6\"> into <Name=\"Acorn Guest House\"> , reference <Ref=\"1IJ5VMO1\"> ."
+    },
+    "Booking-Book:Name,Ref,Time": {
+        "MUL0083_B5": "You are booked at <Name=\"restaurant one seven\"> at <Time=\"11:00\"> with your table reserved for 15 minutes . Your reference number <Ref=\"F3RVTNHQ\"> .",
+        "MUL0205_B9": "Alright , I have you booked at <Name=\"Sala Thong\"> at <Time=\"12:15\"> . Reference number is : <Ref=\"QIH3G407\"> .",
+        "MUL0234_B6": "Alright , you 're booked at <Time=\"11:45\"> at the <Name=\"Meze Bar Restaurant\"> . Your reference number is <Ref=\"UXHS88M3\"> .",
+        "MUL0260_B8": "Booking was successful at the <Name=\"varsity restaurant\"> for <Time=\"17:15\"> . The table will be reserved for 15 minutes . Your reference number is : <Ref=\"8C739HB9\"> . Can I help with anything else ?",
+        "MUL0312_B3": "I 've booked table at <Name=\"Bedouin\"> for you at <Time=\"14:15\"> . The table will be reserved for 15 minutes . Your reference number is <Ref=\"K6QAFBCR\"> ."
+    },
+    "Booking-Book:People,Ref,Time": {
+        "MUL0008_B5": "Ok . I have booked a table for <People=\"8\"> at <Time=\"12:00\"> . Your reference number is <Ref=\"797L5BG6\"> .",
+        "MUL0053_B10": "I have booked a table for <People=\"3\"> at <Time=\"11:30\"> . Your reference number is <Ref=\"OUR3L525\"> .",
+        "MUL0164_B5": "I was able to book a table for <People=\"1\"> at <Time=\"16:30\"> . Your reference number is <Ref=\"P62404I5\"> .",
+        "MUL0213_B7": "I have reserved a table for <People=\"three\"> at <Time=\"21:00\"> . The reference number is <Ref=\"OUN5OI0K\"> .",
+        "MUL0301_B7": "Your party of <People=\"5\"> is booked for the restaurant at <Time=\"15:15\"> and the reference number is <Ref=\"6OWS31DG\"> ."
+    },
+    "Booking-Inform:Name,Name": {
+        "MUL0836_B4": "Would you like a table at <Name=\"La Mimosa\"> or <Name=\"Shiraz\"> ?",
+        "PMUL0159_B3": "Would you like me to book <Name=\"Alexander\"> or <Name=\"University Arms\"> for your stay ?",
+        "SSNG0166_B3": "I could try the <Name=\"Charlie Chan\"> , or <Name=\"the Golden House\"> for you , if you wish .",
+        "SSNG0383_B2": "Would you like me to book you a room at the <Name=\"Bridge Guest House\"> , or <Name=\"any of the others\"> ?"
+    },
+    "Booking-Inform:Stay": {
+        "MUL1156_B6": "Would you like to try for <Stay=\"4 nights\"> ?",
+        "MUL1156_B7": "Would you like to try for <Stay=\"one\"> day ?",
+        "PMUL1600_B7": "Okay , <Stay=\"three nights\"> .",
+        "SNG1340_B2": "For <Stay=\"just one\"> day ?"
+    },
+    "Booking-NoBook:People,Stay": {
+        "MUL0094_B7": "A booking for <People=\"3\"> people for <Stay=\"2\"> days is unsuccessful . Would you like to try anything else ?",
+        "MUL0638_B6": "Unfortunately , it does n't look like there is availability for <People=\"7\"> people , for <Stay=\"4\"> nights , starting on Wednesday .",
+        "MUL1024_B9": "I 'm not able to reserve that hotel for <Stay=\"3\"> days for <People=\"6\"> people . Would you like to try another hotel ?",
+        "MUL1156_B7": "I 'm unable to book <Stay=\"two nights\"> for <People=\"six\"> people .",
+        "MUL1369_B3": "The Cambridge Belfry hotel was unable to accommodate <Stay=\"4\"> days for <People=\"6\"> people ."
+    },
+    "Booking-NoBook:Stay": {
+        "MUL0052_B5": "Unfortunately it can not be booked for <Stay=\"3\"> days . Did you want to get information about a different hotel instead ?",
+        "MUL0608_B7": "Sadly I was unable to book you for <Stay=\"that time period\"> .",
+        "MUL0683_B6": "I 'm not able to secure <Stay=\"5\"> nights .",
+        "MUL0767_B5": "I 'm sorry , it is n't available for <Stay=\"3\"> nights .",
+        "MUL0770_B3": "There is no rooms available for <Stay=\"two nights\"> ."
+    },
+    "Hotel-Inform:Addr,Area,Name,Phone,Post": {
+        "MUL1122_B3": "The <Name=\"Hobsons House hotel\"> is located in the <Area=\"west\"> at <Addr=\"96 barton road\"> postcode <Post=\"cb39lh\"> . The phone number is <Phone=\"01223304906\"> .",
+        "MUL1377_B2": "Certainly . <Name=\"Cityroomz\"> is in the <Area=\"centre of town\"> , and their address is <Addr=\"Sleeperz Hotel , Station Road\"> , postcode <Post=\"cb12tz\"> . Their phone number is <Phone=\"01223304050\"> .",
+        "PMUL1844_B6": "The address for <Name=\"leverton house\"> is <Addr=\"732-734 newmarket road\"> in the <Area=\"east\"> . The postcode is <Post=\"cb58rs\"> and phone number is <Phone=\"01223292094\"> .",
+        "SNG0971_B1": "I 've located <Name=\"Allenbell Guesthouse\"> . It 's in the <Area=\"east\"> at address <Addr=\"517a coldham lane\"> postcode <Post=\"cb13js\"> . The contact number is <Phone=\"01223210353\"> ."
+    },
+    "Hotel-Inform:Addr,Area,Phone": {
+        "MUL1225_B2": "Yes , their address is <Addr=\"63 milton road\"> . It is in the <Area=\"North par of town\"> . Their phone number is <Phone=\"01223311625\"> .",
+        "PMUL0087_B1": "it is found in the <Area=\"east\"> , <Addr=\"15-17 norman way coldhams business park\"> . you can call them on <Phone=\"01223866800\">",
+        "PMUL1649_B6": "It is in the <Area=\"north\"> , address is <Addr=\"63 Milton Road\"> and the phone number <Phone=\"01223311625\"> .",
+        "PMUL2984_B4": "sure , it is in the <Area=\"north\"> . The address is <Addr=\"154 chesterton road\"> and their phone number is <Phone=\"01223353888\"> .",
+        "PMUL4401_B9": "It is located in the <Area=\"east\"> area at <Addr=\"15-17 Norman Way , Coldhams Business Park\"> . The phone number is <Phone=\"01223866800\"> ."
+    },
+    "Hotel-Inform:Addr,Area,Price": {
+        "PMUL2743_B1": "It is a hotel in the <Area=\"centre of town\"> in the <Price=\"moderate\"> price range located at <Addr=\"sleeperz hotel , station road\"> .",
+        "PMUL3174_B4": "Yes certainly it is located in the <Area=\"south\"> and their address is <Addr=\"5 Mowbray road\"> and they are <Price=\"moderately priced\"> .",
+        "PMUL3289_B1": "Sure , it is located at <Addr=\"15-17 Norman Way , Coldhams Business Park\"> . That is the <Area=\"east side of town\"> . It 's <Price=\"pretty expensive\"> , but very nice .",
+        "PMUL3560_B1": "If you go there , you are in for a treat . They have excellent food ! They are <Price=\"moderately priced\"> and located in the <Area=\"north\"> . They are at <Addr=\"191 Histon Road Chesterton\"> ."
+    },
+    "Hotel-Inform:Addr,Name,Type": {
+        "MUL0657_B5": "The <Name=\"Allenbell\"> is a <Type=\"guesthouse\"> located at <Addr=\"517a Coldham Lane\"> .",
+        "MUL2298_B6": "The <Name=\"Allenbell\"> is a <Type=\"guesthouse\"> . And they are located at <Addr=\"517a Coldham Lane\"> .",
+        "MUL2540_B5": "<Name=\"alexander bed and breakfast\"> is a <Type=\"guesthouse\"> . The address is <Addr=\"56 saint barnabas road\"> .",
+        "PMUL3750_B4": "<Name=\"The Allenbell\"> is a <Type=\"guesthouse\"> and it 's located at <Addr=\"517a coldham lane\"> .",
+        "PMUL3803_B7": "<Name=\"The Avalon\"> is a <Type=\"guesthouse\"> . The address is <Addr=\"78-80 Milton Road\"> .",
+        "PMUL4509_B2": "<Name=\"cityroomz\"> is a <Type=\"hotel\"> , the address is <Addr=\"sleeperz hotel , station road\">"
+    },
+    "Hotel-Inform:Addr,Phone,Price": {
+        "MUL0081_B4": "It 's <Price=\"moderately priced\"> , so you do n't have to worry about breaking the bank . And it is located at <Addr=\"sleeperz hotel , station road\"> . You can give them a call at <Phone=\"01223304050\"> .",
+        "MUL1030_B5": "The price range is <Price=\"cheap\"> , you would need to call for more specific information . Their phone number is <Phone=\"01223327978\"> , and they are located at <Addr=\"41 Warkworth Street\"> .",
+        "PMUL1700_B9": "It is in the <Price=\"expensive\"> range . It is located on <Addr=\"regent street\"> and their phone number is <Phone=\"01223351241\"> .",
+        "PMUL4827_B6": "They are <Price=\"expensive\"> and can be reached at <Phone=\"01223866800\"> . The address is <Addr=\"15-17 norman way , coldhams business park\"> ."
+    },
+    "Hotel-Inform:Addr,Phone,Stars": {
+        "MUL0143_B4": "Sure , the phone number is <Phone=\"01223353888\"> , the address is <Addr=\"154 Chesterton Road\"> , and it has a <Stars=\"4\"> star rating .",
+        "MUL1086_B6": "Sure . The address is <Addr=\"154 Chesterton Road\"> , the phone number is <Phone=\"01223353888\"> and it is a <Stars=\"4\"> star hotel .",
+        "PMUL1738_B8": "<Stars=\"3\"> stars , phone <Phone=\"01223366611\"> , address <Addr=\"gonville place\"> .",
+        "SNG0968_B3": "Sure . It 's a <Stars=\"3\"> star hotel . The address is <Addr=\"53-57 Lensfield Road\"> and the phone number is <Phone=\"01223355017\"> ."
+    },
+    "Hotel-Inform:Addr,Stars,Type": {
+        "MUL1214_B4": "Sure , it is a <Stars=\"4\"> star <Type=\"guesthouse\"> located at <Addr=\"82 Arbury Road\"> .",
+        "MUL2649_B5": "It is a <Stars=\"4\"> star <Type=\"hotel\"> , and its address is <Addr=\"154 chesterton road\"> .",
+        "PMUL0289_B8": "Sure , that is a great <Stars=\"4\"> star <Type=\"guesthouse\"> at <Addr=\"62 Gilbert Road\"> .",
+        "PMUL3587_B4": "Absolutely . It is a great <Stars=\"4\"> star <Type=\"guesthouse\"> located at <Addr=\"154 Chesterton Road\"> .",
+        "PMUL4410_B1": "Yes , it is a <Stars=\"4\"> star <Type=\"guesthouse\"> located at <Addr=\"138 Perne Road\"> . Very nice and clean place .",
+        "SNG0955_B4": "Sure . It 's a <Stars=\"two\"> star <Type=\"hotel\"> and the address is <Addr=\"15-17 Norman Way , Coldhams Business Park\"> ."
+    },
+    "Hotel-Inform:Area,Area,Area,Choice": {
+        "MUL2004_B5": "There are <Choice=\"11\"> places fitting your needs in the <Area=\"east\"> , <Area=\"north\"> and <Area=\"south\"> of town .",
+        "MUL2113_B5": "We have <Choice=\"33\"> total entries that match you criteria , location varying from <Area=\"north\"> , <Area=\"south\"> , <Area=\"and east\"> .",
+        "MUL2220_B5": "You have <Choice=\"3\"> choices : one in the <Area=\"south\"> , one in the <Area=\"north\"> , and one in the <Area=\"west\"> .",
+        "PMUL2888_B2": "I have found <Choice=\"one\"> in the <Area=\"south\"> , the <Area=\"north\"> and the <Area=\"west\"> . Do you have a preference ? They are all very comparable .",
+        "PMUL3044_B3": "We have <Choice=\"several\"> such choices in the <Area=\"north\"> , <Area=\"south\"> and <Area=\"east\"> .",
+        "SSNG0251_B2": "There are <Choice=\"11\"> options located in the <Area=\"east\"> , <Area=\"north\"> , and <Area=\"south\"> ."
+    },
+    "Hotel-Inform:Area,Area,Choice": {
+        "MUL0667_B2": "Okay , I 've got <Choice=\"two\"> that fit the bill . One in the <Area=\"centre\"> of town and one in the <Area=\"south\"> .",
+        "MUL1216_B8": "There are <Choice=\"2\"> that fit that criteria . One is in the <Area=\"West\"> and the other is in the <Area=\"Centre\"> .",
+        "MUL1245_B5": "There are <Choice=\"2\"> . They have the same features except one is in the <Area=\"north\"> and the other is in the <Area=\"centre\"> .",
+        "MUL1379_B7": "I found <Choice=\"2\"> listings for you . One hotel is in the <Area=\"west\"> area of town and the other is in the <Area=\"centre\"> part .",
+        "MUL2223_B2": "We have <Choice=\"two\"> options available that meet your criteria , one is in the <Area=\"North\"> and one is in <Area=\"Centre\"> ."
+    },
+    "Hotel-Inform:Area,Area,Name,Name": {
+        "MUL0607_B2": "<Name=\"The Alexander bed and breakfast\"> in the <Area=\"centre of town\"> and <Name=\"the Allenbell\"> on the <Area=\"east\"> side of town .",
+        "MUL1053_B4": "There is the <Name=\"Huntingdon Marriott Hotel\"> in the <Area=\"West\"> , and the <Name=\"University Arms Hotel\"> in the <Area=\"Centre\"> .",
+        "MUL1137_B1": "<Name=\"Gonville Hotel\"> is in the <Area=\"centre of town\"> and <Name=\"The Lensfield Hotel\"> is in the <Area=\"south\"> .",
+        "MUL1236_B4": "I found <Name=\"huntingdon marriott hotel\"> in the <Area=\"west\"> , and <Name=\"university arms hotel\"> in the <Area=\"centre\"> .",
+        "MUL2188_B7": "<Name=\"City centre\"> is located in the <Area=\"north\"> and <Name=\"el shaddai\"> is located in the <Area=\"centre\"> ."
+    },
+    "Hotel-Inform:Area,Choice,Name,Name,Price,Type": {
+        "MUL0025_B5": "Looks like there was an error in our system earlier . There are <Choice=\"two\"> <Price=\"moderately priced\"> <Type=\"hotels\"> in the <Area=\"north\"> - <Name=\"The Ashley\"> and <Name=\"The Lovell Lodge\"> .",
+        "MUL0158_B6": "There are <Choice=\"two\"> <Price=\"expensive\"> <Type=\"hotels\"> in the <Area=\"centre of town\"> . <Name=\"The Gonville\"> and <Name=\"University Arms\"> .",
+        "PMUL0404_B1": "I have <Choice=\"two\"> <Price=\"moderately priced\"> <Type=\"hotels\"> in the <Area=\"north\"> for you . <Name=\"The Ashley Hotel\"> and <Name=\"the Lovell Lodge\"> .",
+        "PMUL2529_B1": "I have <Choice=\"2\"> <Type=\"hotels\"> in the <Area=\"north\"> both <Price=\"priced moderately\"> the <Name=\"ashley hotel\"> and <Name=\"the lovell lodge\"> .",
+        "PMUL4655_B6": "There are <Choice=\"2\"> <Type=\"hotels\"> in the <Area=\"north\"> , <Name=\"Ashley hotel\"> and <Name=\"lovell lodge\"> . Both are <Price=\"moderately priced\"> ."
+    },
+    "Hotel-Inform:Area,Choice,Name,Name,Type": {
+        "MUL0617_B3": "Sure , we have <Choice=\"2\"> <Type=\"hotels\"> in the <Area=\"north\"> , <Name=\"ashley hotel\"> and <Name=\"lovell lodge\"> .",
+        "MUL1008_B3": "There are <Choice=\"2\"> <Type=\"hotels\"> and both are located in the <Area=\"north\"> . The <Name=\"Ashley Hotel\"> and the <Name=\"Lovell Hotel\"> .",
+        "PMUL0311_B5": "There are <Choice=\"two\"> <Type=\"guesthouses\"> in the <Area=\"centre\"> area . <Name=\"Alexander Bed and Breakfast\"> and <Name=\"El Shaddai\"> .",
+        "PMUL0390_B2": "Here are the <Choice=\"two\"> choices of <Type=\"hotels\"> in the <Area=\"Centre area\"> that meet your criteria : <Name=\"Gonville Hotel\"> and <Name=\"University Arms Hotel\"> .",
+        "PMUL1537_B2": "There are <Choice=\"two\"> <Type=\"hotels\"> in the <Area=\"north\"> , <Name=\"Ashley Hotel\"> and <Name=\"Lovell Lodge\"> which would you like ?",
+        "PMUL4866_B6": "There are <Choice=\"two\"> <Type=\"hotels\"> in the <Area=\"north\"> that fit your needs : <Name=\"the ashley hotel\"> and <Name=\"the lovell lodge\"> ."
+    },
+    "Hotel-Inform:Area,Choice,Type,Type": {
+        "MUL0798_B1": "I sure can . We have <Choice=\"four\"> accommodation options in the <Area=\"south part of town\"> . One is a <Type=\"hotel\"> , and three are <Type=\"guesthouses\"> .",
+        "MUL2545_B4": "There are <Choice=\"4\"> places to stay in the <Area=\"Centre\"> area two are <Type=\"guesthouses\"> and two are <Type=\"hotels\"> .",
+        "PMUL2860_B4": "I 'm showing <Choice=\"33\"> <Type=\"hotel\"> and <Type=\"guesthouses\"> in the <Area=\"centre\"> .",
+        "SNG0754_B1": "There are <Choice=\"many\"> <Type=\"guesthouses\"> and <Type=\"hotels\"> on the <Area=\"north side\"> .",
+        "SNG0822_B1": "I can definitely help with that . I have about <Choice=\"5\"> different <Type=\"hotels\"> and <Type=\"guesthouses\"> that are in the <Area=\"centre of town\"> ."
+    },
+    "Hotel-Inform:Area,Name,Stars,Type": {
+        "MUL0771_B5": "Yes , the <Name=\"Hamilton Lodge\"> has only <Stars=\"three\"> stars . It is a <Type=\"guesthouse\"> in the <Area=\"north part of town\"> .",
+        "MUL0793_B8": "The <Name=\"acorn guest house\"> is a <Stars=\"4\"> star <Type=\"hotel\"> located in the <Area=\"north\"> side .",
+        "PMUL2514_B3": "<Name=\"The Acorn Guesthouse\"> is a <Stars=\"4\"> star <Type=\"guesthouse\"> located in the <Area=\"North\"> .",
+        "PMUL2901_B4": "Yes , <Name=\"the Cambridge Belfy\"> is a <Stars=\"4\"> star <Type=\"hotel\"> in the <Area=\"west area\"> .",
+        "PMUL2903_B2": "<Name=\"Rosa 's bed and breakfast\"> is a <Stars=\"4\"> star <Type=\"guesthouse\"> located in the <Area=\"South\"> ."
+    },
+    "Hotel-Inform:Choice,Name,Type": {
+        "MUL0034_B6": "There is <Choice=\"only one\"> <Type=\"hotel\"> that fits that , the <Name=\"Express by Holiday Inn Cambridge\"> , would you like to stay there ?",
+        "MUL0151_B5": "I found <Choice=\"5\"> <Type=\"hotels\"> , would you like <Name=\"Huntingdon Marriott Hotel\"> , it has the highest ratings .",
+        "MUL0679_B1": "I have <Choice=\"5\"> <Type=\"hotels\"> available in your criteria . Would you like to stay at <Name=\"Gonville hotel\"> ?",
+        "MUL2600_B4": "There are <Choice=\"4\"> <Type=\"guesthouses\"> that meet your criteria . <Name=\"The Hobsons House\"> is popular .",
+        "PMUL0034_B6": "I have found <Choice=\"one\"> result , a <Type=\"guesthouse\"> . It is <Name=\"alexander bed and breakfast\"> ."
+    },
+    "Hotel-Inform:Choice,Price,Price": {
+        "MUL0033_B2": "There are <Choice=\"two\"> choices , one is in the <Price=\"expensive\"> price range , the other in the <Price=\"cheap\"> price range .",
+        "MUL0141_B4": "I have <Choice=\"two\"> hotels that fit your request . One is <Price=\"cheap\"> and the other is <Price=\"expensive\"> .",
+        "MUL1228_B3": "There are <Choice=\"5\"> to choose from , from <Price=\"cheap\"> to <Price=\"expensive\"> .",
+        "MUL1324_B2": "I have about <Choice=\"6\"> different ones . I have <Price=\"cheaper\"> options and <Price=\"moderately priced\"> ones .",
+        "MUL2052_B1": "Yes I have <Choice=\"4\"> examples from <Price=\"cheap\"> to <Price=\"moderately priced\"> ."
+    },
+    "Hotel-Inform:Choice,Price,Stars": {
+        "MUL2249_B5": "There are <Choice=\"several\"> <Stars=\"4\"> star that are <Price=\"moderately priced\"> .",
+        "PMUL3393_B2": "I have <Choice=\"one\"> with <Stars=\"3\"> stars in the <Price=\"expensive\"> price range .",
+        "PMUL4381_B5": "We have <Choice=\"11\"> <Price=\"moderately priced\"> guesthouses that are <Stars=\"4\"> stars .",
+        "PMUL4728_B5": "<Choice=\"The best\"> that we have in the <Price=\"moderate\"> price range is <Stars=\"2\"> stars ."
+    },
+    "Hotel-Inform:Choice,Type,Type": {
+        "MUL0044_B7": "That was a <Type=\"guesthouse\"> , <Choice=\"all 3\"> options are <Type=\"guesthouses\"> .",
+        "MUL1117_B1": "I have <Choice=\"many\"> <Type=\"guesthouses\"> and <Type=\"hotels\"> available .",
+        "MUL1281_B5": "There are <Choice=\"many\"> <Type=\"hotels\"> and <Type=\"guest houses\"> .",
+        "MUL2012_B6": "I found <Choice=\"two\"> <Type=\"hotels\"> do you want the detail information for the <Type=\"hotels\"> ?",
+        "MUL2073_B2": "I have <Choice=\"several\"> <Type=\"hotels\"> and <Type=\"guesthouses\"> available ."
+    },
+    "Hotel-Inform:Name,Name,Name": {
+        "MUL1011_B3": "There is <Name=\"Ashley Hotel\"> , <Name=\"Express by holiday inn cambridge\"> , and <Name=\"lovell lodge\"> .",
+        "MUL2099_B6": "<Name=\"huntingdon marriott hotel\"> , <Name=\"the cambridge belfry\"> and <Name=\"university arms hotel\"> all meet your needs .",
+        "MUL2108_B7": "I have the <Name=\"A and B Guest House\"> , <Name=\"the Carolina Bed and Breakfast\"> , <Name=\"and lastly the Warkworth House\"> . The only difference between them is the A & B has no free parking .",
+        "MUL2142_B2": "There is <Name=\"allenbell\"> , <Name=\"autumn house\"> , and <Name=\"leverton house\"> .",
+        "PMUL0454_B2": "The <Name=\"allenbell\"> , <Name=\"autumn house\"> and <Name=\"leverton house\"> fit your needs ."
+    },
+    "Hotel-Inform:Name,Name,Stars": {
+        "MUL0108_B4": "Great , both <Name=\"university arms hotel\"> , and <Name=\"huntingdon marriott hotel\"> are <Stars=\"four\"> stars .",
+        "PMUL3320_B2": "At <Stars=\"0\"> stars your choices are <Name=\"El Shaddai\"> , or <Name=\"City Centre North B & B\"> .",
+        "PMUL3747_B6": "<Name=\"El Shaddai\"> gets <Stars=\"zero\"> stars and so does the <Name=\"City Centre North B and B\"> .",
+        "SNG0902_B2": "I have <Name=\"the El Shaddai\"> and <Name=\"the Cityroomz\"> that are <Stars=\"not rated\"> ."
+    },
+    "Hotel-Inform:Name,Phone,Post,Price": {
+        "MUL1102_B10": "Sure , <Name=\"aylesbray lodge guest house\"> phone number <Phone=\"01223240089\"> , postcode <Post=\"cb17sr\"> and price range <Price=\"moderate\"> .",
+        "PMUL1754_B9": "<Name=\"Limehouse\"> is a <Price=\"moderately priced\"> establishment . They 're in postcode <Post=\"cb42je\"> and their phone number is <Phone=\"01223300552\"> .",
+        "PMUL2643_B5": "The postcode for <Name=\"Hamilton Lodge\"> is <Post=\"cb41da\"> and their phone is <Phone=\"01223365664\"> . They 're in the <Price=\"moderate\"> price range .",
+        "PMUL2933_B3": "<Name=\"Rosa 's Bed and Breakfast\"> is <Price=\"cheaply priced\"> and is absolutely gorgeous . The phone number is <Phone=\"01223512596\"> and the postcode is <Post=\"cb22ha\"> .",
+        "PMUL3561_B8": "<Name=\"Hobsons house\"> is <Price=\"moderately priced\"> and can be reached at <Phone=\"01223304906\"> . Their postcode is <Post=\"cb39lh\"> ."
+    },
+    "Hotel-Inform:Name,Post,Price": {
+        "MUL0653_B7": "Certainly , the postcode for <Name=\"gonville hotel\"> is <Post=\"cb11ly\"> . the price range for the hotel is <Price=\"expensive\"> , but I do n't have the actual price .",
+        "MUL0764_B7": "Sure , the postcode for <Name=\"Acorn Guest House\"> is <Post=\"cb41da\"> and the price range is in the <Price=\"moderate\"> range .",
+        "MUL1269_B6": "<Name=\"Cityroomz\"> is a <Price=\"moderate\"> priced offering and the postcode is <Post=\"cb12tz\"> .",
+        "PMUL1996_B3": "The <Name=\"Cambridge Belfry\"> post code is <Post=\"cb236bw\"> and it is <Price=\"fairly cheap compared to other hotels\"> in the area .",
+        "PMUL3692_B3": "<Name=\"The Cambridge Belfry\"> post code is <Post=\"cb236bw\"> and it is <Price=\"fairly cheap\"> compared to other hotels in the area .",
+        "PMUL4877_B5": "The post code for the <Name=\"Acorn guest house\"> is <Post=\"cb41da\"> and it is in the <Price=\"moderate\"> price range ."
+    },
+    "Hotel-Inform:Name,Post,Stars": {
+        "MUL0753_B7": "The <Name=\"Carolina B & B\"> is located in post code <Post=\"CB13NX\"> , and has a <Stars=\"4\"> star rating .",
+        "MUL2672_B7": "The star rating for <Name=\"the Aylesbray Lodge Guest House\"> is <Stars=\"4\"> and the postal code is <Post=\"cb17sr\"> .",
+        "PMUL0341_B2": "<Name=\"The Carolina Bed and Breakfast\"> is located at the <Post=\"cb13nx\"> and is rated <Stars=\"4\"> stars .",
+        "PMUL3506_B4": "<Name=\"Warkworth house\"> has a <Stars=\"4\"> star rating . Their post code is <Post=\"cb11ee\">",
+        "PMUL4561_B7": "The <Name=\"ashley hotel\"> has <Stars=\"2\"> stars . They 're in the postcode <Post=\"cb41er\"> .",
+        "SNG0965_B3": "Certainly , yes the <Name=\"Allenbell\"> is a <Stars=\"4\"> star hotel and their postcode is <Post=\"cb13js\"> ."
+    },
+    "Hotel-Inform:Name,Price,Stars,Type": {
+        "MUL0039_B1": "I found <Name=\"the Cambridge Belfry\"> , a <Stars=\"4\"> star <Price=\"cheap\"> <Type=\"hotel\"> .",
+        "MUL0084_B6": "<Name=\"Rosa 's Bed and Breakfast\"> is a <Stars=\"four\"> star <Type=\"guesthouse\"> at <Price=\"extremely reasonable\"> rates .",
+        "MUL0094_B4": "<Name=\"university arms hotel\"> is an <Price=\"expensive\"> <Stars=\"4\"> star <Type=\"hotel\"> .",
+        "MUL1339_B2": "<Name=\"The Alexander Bed and Breakfast\"> is a <Stars=\"4\"> star <Type=\"guesthouse\"> that is <Price=\"cheap\"> .",
+        "MUL2052_B3": "<Name=\"The the cambridge belfry\"> is a <Stars=\"4\"> star <Type=\"hotel\"> that has a <Price=\"cheap\"> price ."
+    },
+    "Hotel-Inform:Name,Price,Type": {
+        "MUL0177_B2": "<Name=\"The avalon\"> is a <Price=\"moderately priced\"> <Type=\"guesthouse-type\"> that matches your criteria .",
+        "MUL0637_B2": "<Name=\"Finches bed and breakfast\"> is a <Type=\"guesthouse\"> , and the price range is <Price=\"cheap\"> .",
+        "MUL1177_B5": "Certainly ! <Name=\"The A and B Guest House\"> is a <Price=\"moderately-priced\"> <Type=\"hotel\"> .",
+        "MUL1255_B3": "The <Name=\"Allenbell\"> is a <Price=\"low cost\"> <Type=\"guesthouse\"> .",
+        "MUL1387_B5": "The <Price=\"cheap\"> <Type=\"hotel\"> is <Name=\"The Cambridge Belfry\"> ."
+    },
+    "Hotel-Inform:Phone,Stars": {
+        "MUL2173_B4": "It has <Stars=\"4\"> star rating and the phone number is <Phone=\"01223353888\"> .",
+        "MUL2589_B3": "<Phone=\"01223292094\"> is their phone number . it has <Stars=\"4\"> stars .",
+        "PMUL1521_B7": "Yes they are <Stars=\"3\"> star , and phone number is <Phone=\"01223304906\">",
+        "PMUL3181_B4": "The phone number is <Phone=\"01223304906\"> and the stars is <Stars=\"3\">"
+    },
+    "Hotel-Inform:Post,Price": {
+        "MUL2553_B3": "No problem ! The postcode is <Post=\"cb13llh\"> and price range is listed as <Price=\"expensive\"> .",
+        "PMUL0011_B9": "<Price=\"Cheap\"> price range and postcode is <Post=\"cb12e\">",
+        "PMUL2916_B7": "They are in the <Price=\"expensive\"> price range , and postcode is <Post=\"cb21ad\">",
+        "PMUL4641_B6": "It 's in the <Price=\"cheap\"> price range and the post code is <Post=\"cb12de\"> .",
+        "SNG02031_B4": "It is <Price=\"moderately priced\"> and the postcode is <Post=\"cb41da\"> ."
+    },
+    "Hotel-NoOffer:Area,Price,Stars,Type": {
+        "MUL1068_B2": "There are no <Stars=\"4\"> star <Price=\"expensive\"> <Type=\"guesthouses\"> on the <Area=\"East side of town\"> .",
+        "MUL1082_B3": "There are no <Price=\"cheap\"> <Type=\"hotels\"> with <Stars=\"0\"> stars in the <Area=\"centre\"> .",
+        "MUL2016_B3": "I am sorry but there is not a <Stars=\"4\"> star <Type=\"hotel\"> at a <Price=\"moderate\"> price in <Area=\"center\"> area of the city .",
+        "MUL2156_B4": "There are no <Type=\"hotels\"> in <Area=\"Cambridge\"> that are <Price=\"expensive\"> with a <Stars=\"0\"> star rating .",
+        "MUL2625_B3": "Unfortunately , I am not seeing any <Stars=\"4\"> star <Type=\"hotels\"> that are <Price=\"moderately priced\"> in the <Area=\"centre\"> ."
+    },
+    "Hotel-NoOffer:Price": {
+        "MUL0739_B2": "There is none that is <Price=\"cheap\"> . Would you like to change your criteria ?",
+        "MUL1027_B6": "Unfortunately , I do not have any that are in the <Price=\"expensive\"> range .",
+        "MUL1088_B3": "No <Price=\"expensive\"> ones are listed .",
+        "MUL2039_B2": "I 'm sorry , there is not an <Price=\"expensive\"> one .",
+        "PMUL0280_B7": "There are no <Price=\"moderately priced\"> hotels in the area you are looking for ."
+    },
+    "Hotel-NoOffer:Price,Stars,Type": {
+        "MUL0071_B4": "I 'm sorry , but there are no <Price=\"expensive\"> <Stars=\"0-star\"> <Type=\"hotels\"> in the area .",
+        "MUL1195_B2": "It does n't look like we have any <Price=\"expensive\"> <Stars=\"4\"> star <Type=\"guesthouses\"> .",
+        "MUL1359_B1": "I 'm sorry , there are no <Price=\"moderately priced\"> <Stars=\"4\"> star <Type=\"hotels\"> in town . Would you like to try a different rating or price ?",
+        "MUL2188_B4": "I 'm sorry but we do n't have any <Price=\"expensive\"> <Type=\"hotels\"> with <Stars=\"0\"> stars .",
+        "MUL2188_B5": "I 'm sorry but we do n't have any <Price=\"expensive\"> <Type=\"hotels\"> with <Stars=\"1\"> stars , either . Do you have any other preferences ?"
+    },
+    "Hotel-NoOffer:Stars": {
+        "MUL0152_B2": "I am sorry , but that hotel does not have a <Stars=\"4\"> star rating , would you like another option ?",
+        "MUL2117_B2": "Sorry , I do n't have anything <Stars=\"4\"> star in that area .",
+        "PMUL0054_B3": "I am sorry I have no listings for any with <Stars=\"4\"> stars .",
+        "PMUL0269_B6": "I have not found anything with a star of <Stars=\"zero\"> .",
+        "PMUL1651_B10": "There are no <Stars=\"4\"> stars in that area ."
+    },
+    "Hotel-NoOffer:Type,Type": {
+        "MUL2669_B5": "Unfortunately , I do not have any <Type=\"guesthouses\"> or <Type=\"hotels\"> that fit your criteria . Is there a different price range , area , etc .",
+        "PMUL1824_B7": "Sounds like your in a hurry , lets find a place before booking . Right now I see nothing that matches you search for <Type=\"hotel\"> or <Type=\"guesthouse\"> .",
+        "PMUL3512_B5": "I 'm sorry , there are no matching <Type=\"hotels\"> or <Type=\"guesthouses\"> .",
+        "PMUL3706_B2": "I do not have any <Type=\"hotel\"> or <Type=\"guesthouse\"> matching that description"
+    },
+    "Hotel-Recommend:Addr,Name,Phone,Post": {
+        "MUL1327_B5": "<Name=\"the a and b guest house 's\"> number is <Phone=\"01223315702\"> , the postcode and address is <Post=\"cb12dp\"> at <Addr=\"124 tenison road\"> .",
+        "PMUL0480_B4": "<Name=\"a and b guest house\"> <Addr=\"124 tenison road\"> <Post=\"cb12dp\"> and the phone number is <Phone=\"01223315702\">",
+        "PMUL2858_B2": "<Name=\"Hobsons House\"> is at address <Addr=\"96 barton road\"> postcode <Post=\"cb39lh\"> and their phone number is <Phone=\"01223304906\"> .",
+        "SNG0851_B5": "How about <Name=\"Archway House\"> ? It 's at <Addr=\"52 Gilbert Road\"> <Post=\"cb43pe\"> , and the phone number is <Phone=\"01223575314\"> . Would that work for you ?",
+        "SNG0939_B3": "I 'd recommend that <Name=\"Avalon\"> , as it fulfills your needs . It 's located at <Addr=\"62 Gilbert Road\"> <Post=\"cb43pd\"> and the phone number is <Phone=\"01223353071\"> ."
+    },
+    "Hotel-Recommend:Area,Area,Name,Name": {
+        "PMUL2750_B7": "OKay , we have the <Name=\"gonville hotel\"> in the <Area=\"centre\"> and the <Name=\"lensfield hotel\"> in the <Area=\"south\"> .",
+        "PMUL4454_B4": "Sure . <Name=\"The Gonville Hotel\"> is located in the <Area=\"centre\"> and the <Name=\"Lensfield Hotel\"> is in the <Area=\"south\"> .",
+        "SNG0992_B3": "I recommend either the <Name=\"Huntingdon Marriott Hotel\"> in the <Area=\"west\"> or the <Name=\"University Arms Hotel\"> in the <Area=\"centre\"> .",
+        "SNG1209_B4": "I would recommend <Name=\"acorn guest house\"> in the <Area=\"north\"> area or <Name=\"a and b guest house\"> in the <Area=\"east\"> area . Which would you prefer ?"
+    },
+    "Hotel-Recommend:Area,Name,Price,Stars": {
+        "PMUL0402_B4": "<Name=\"Alexander Bed and Breakfast\"> is in the <Area=\"centre\"> near the restaurant , it is <Stars=\"4\"> stars and in the <Price=\"cheap\"> price range . They offer both internet and wifi .",
+        "PMUL0459_B3": "I found a <Stars=\"4\"> star <Price=\"moderately priced\"> <Name=\"aylesbray lodge guest house\"> located in the <Area=\"south\"> . Would you like me to book reservations .",
+        "PMUL1862_B3": "I can suggest <Name=\"the avalon\"> located in the <Area=\"north\"> it is <Price=\"moderately priced\"> with <Stars=\"4\"> stars .",
+        "PMUL1894_B5": "May I recommend the <Name=\"Kirkwood House\"> located in the <Area=\"north\"> for a <Price=\"moderate\"> price with <Stars=\"4\"> stars ?",
+        "PMUL1970_B7": "I recommend the <Name=\"A & B Guest House\"> in the <Area=\"east\"> . It 's <Price=\"moderately priced\"> and <Stars=\"4\"> stars ."
+    },
+    "Hotel-Recommend:Area,Name,Price,Stars,Type": {
+        "MUL0015_B2": "<Name=\"Archway House\"> is a <Price=\"moderately priced\"> <Stars=\"4\"> star <Type=\"hotel\"> in the <Area=\"North\"> .",
+        "MUL0020_B7": "<Name=\"The allenbell\"> is a <Type=\"guesthouse\"> in the <Area=\"east\"> . It is in the <Price=\"cheap\"> price range , but has a <Stars=\"4\"> star rating .",
+        "MUL0126_B6": "How does <Name=\"university arms hotel\"> sound ? It is a <Type=\"hotel\"> in <Area=\"town centre\"> , <Price=\"expensive\"> price range & <Stars=\"4\"> stars . Would you like to book a room ?",
+        "MUL0654_B6": "Hi I recommend <Name=\"alexander bed and breakfast\"> , a <Price=\"cheap\"> <Stars=\"4\"> star <Type=\"restaurant\"> in the <Area=\"center\"> .",
+        "MUL1377_B1": "<Name=\"Cityroomz\"> is a <Type=\"hotel\"> in the <Area=\"city center\"> with <Stars=\"0\"> stars . It 's <Price=\"moderately priced\"> ."
+    },
+    "Hotel-Recommend:Area,Name,Stars": {
+        "MUL0148_B4": "<Name=\"Huntingdon Marriott Hotel\"> is located <Area=\"west\"> and has <Stars=\"4\"> stars .",
+        "MUL2297_B5": "<Name=\"Alexander b & b\"> in the <Area=\"centre\"> has <Stars=\"four\"> stars .",
+        "PMUL0027_B8": "I 'd recommend <Name=\"the Limehouse\"> , it 's in the <Area=\"north\"> and has <Stars=\"4\"> stars .",
+        "PMUL0239_B6": "There is <Name=\"acorn guest house\"> located in the <Area=\"north\"> it has <Stars=\"4\"> stars .",
+        "PMUL1722_B6": "I recommend <Name=\"Carolina Bed and Breakfast\"> in <Area=\"east\"> . It gets <Stars=\"4\"> stars ."
+    },
+    "Hotel-Recommend:Name,Type": {
+        "MUL0009_B2": "The <Name=\"Cambridge Belfry\"> is the only <Type=\"hotel\"> showing to your specifications .",
+        "MUL1152_B11": "I managed to find you a <Type=\"guesthouse\"> called <Name=\"The Hamilton Lodge\"> and made a successful reservation .",
+        "MUL2256_B2": "<Name=\"Aylesbray lodge\"> <Type=\"guest house\"> fits your needs .",
+        "MUL2286_B1": "Would you like me to book <Name=\"arbury lodge\"> <Type=\"guesthouse\">",
+        "PMUL0085_B3": "I would suggest <Name=\"Home from Home\"> it is a great <Type=\"guesthouse\"> ."
+    },
+    "Hotel-Recommend:Type": {
+        "MUL1203_B14": "Of course , would a <Type=\"guesthouse\"> be OK ?",
+        "PMUL0003_B4": "That is one of my favorite <Type=\"guesthouses\"> .",
+        "PMUL1828_B10": "What about a <Type=\"guesthouse\"> ?",
+        "PMUL2755_B1": "Would you be interested in staying at a <Type=\"guesthouse\"> instead ?",
+        "PMUL4553_B4": "We have two options that meet your criteria . Both have free parking and wifi . I would recommend <Type=\"Ashley Hotel\"> .",
+        "SSNG0309_B1": "I am sorry there are no guesthouse in the expensive range . Would you like to try a <Type=\"hotel\"> instead ?"
+    },
+    "Hotel-Request:Internet?": {
+        "MUL0761_B4": "Do you need free WIFI ?",
+        "MUL1116_B1": "do you need internet ?",
+        "MUL1201_B2": "Will you need internet ?",
+        "MUL1394_B2": "Do you need need free internet ?",
+        "PMUL0344_B7": "Are you looking for free internet ?"
+    },
+    "Hotel-Select:Area": {
+        "MUL0023_B4": "Where you looking to stay in the <Area=\"North\"> also ?",
+        "MUL0061_B5": "Would you also like a hotel that is in the <Area=\"west\"> ?",
+        "MUL1182_B3": "Would you like it be located in the <Area=\"East\"> part of town ?",
+        "PMUL0126_B1": "I have places in the <Area=\"north and centre\"> .",
+        "PMUL0310_B5": "Are you looking to stay in the <Area=\"centre of town\"> ?"
+    },
+    "Hotel-Select:Area,Name": {
+        "MUL1007_B3": "There are two hotels in the <Area=\"north\"> end . <Name=\"Ashley Hotel and Lovell Lodge\"> .",
+        "PMUL4734_B7": "Okay how about the <Name=\"acorn guest house\"> in the <Area=\"north\"> ?",
+        "SNG0935_B1": "How about the <Name=\"Alexander bed and breakfast\"> in the <Area=\"centre\"> ?",
+        "SNG1356_B3": "How does the <Name=\"Alexander bed and breakfast\"> in the <Area=\"centre\"> sound ?",
+        "SSNG0231_B4": "What about the <Name=\"gonville hotel\"> in the <Area=\"centre\"> ?"
+    },
+    "Hotel-Select:Choice": {
+        "MUL2148_B5": "Yes , both have free internet and free parking . Do you have a preference between the <Choice=\"two\"> ?",
+        "PMUL2531_B5": "Do you have a preference between the <Choice=\"two\"> ?",
+        "PMUL3431_B4": "I 'm sorry , which of the <Choice=\"3\"> would you like a reservation at ?",
+        "PMUL4172_B3": "yes ! i have <Choice=\"two\"> you may choose from !"
+    },
+    "Hotel-Select:Price": {
+        "MUL0783_B5": "Would you be interested in a <Price=\"moderately priced\"> one instead ?",
+        "PMUL0007_B2": "<Price=\"Moderate or cheap\"> ?",
+        "PMUL1544_B4": "Would you like something in the <Price=\"moderate\"> price range instead ?",
+        "PMUL1704_B5": "Would you like something in the <Price=\"moderate\"> price range possibly ?",
+        "SNG01261_B3": "Would you perhaps consider an <Price=\"expensive\"> price ?",
+        "SNG0922_B3": "Would you prefer something <Price=\"cheap\"> ?"
+    },
+    "Hotel-Select:Price,Type": {
+        "MUL0736_B5": "Could I perhaps interest you in a <Price=\"more moderately priced\"> <Type=\"guesthouse\"> ?",
+        "MUL1136_B1": "Would you be interested in a <Price=\"moderately priced\"> <Type=\"guesthouse\"> ?",
+        "MUL2642_B1": "Unfortunately there is nothing that matches your criteria . Would you like to try a <Type=\"hotel\"> or <Price=\"different price range\"> instead ?",
+        "PMUL0110_B2": "Would you like a <Price=\"moderately priced\"> <Type=\"guesthouse\"> ?",
+        "PMUL1814_B5": "I can book you at a <Price=\"moderately-priced or cheap\"> <Type=\"guesthouse\"> .",
+        "PMUL4243_B2": "I 'm afraid not . Would you prefer a <Price=\"cheaper\"> one , or perhaps a <Type=\"hotel\"> ?"
+    },
+    "Hotel-Select:Stars,Stars": {
+        "MUL0014_B1": "Would you prefer a <Stars=\"3\"> or <Stars=\"4\"> star rated hotel ?",
+        "MUL1014_B1": "Would you prefer the <Stars=\"3\"> or <Stars=\"4\"> star one ?",
+        "MUL1370_B5": "Would you prefer the one with <Stars=\"4\"> stars or <Stars=\"0\"> stars ?",
+        "MUL2149_B2": "Do you prefer a <Stars=\"3\"> or <Stars=\"4\"> star ?",
+        "MUL2216_B3": "Would you like <Stars=\"3\"> or <Stars=\"4\"> stars ?"
+    },
+    "Restaurant-Inform:Addr,Addr,Name,Name": {
+        "MUL0283_B6": "There is <Name=\"Saigon City\"> on <Addr=\"169 High Street in Chesterton\"> and <Name=\"Kymmoy\"> on <Addr=\"52 Mill Road in City Centre\"> .",
+        "MUL2448_B4": "Sure , <Name=\"Golden Wok\"> is at <Addr=\"191 Histon Road Chesterton\"> . The <Name=\"nirala\"> is at <Addr=\"7 Milton Road Chesterton\"> .",
+        "WOZ20052_B4": "<Name=\"Cote\"> is located at <Addr=\"Bridge Street City Centre\"> , and <Name=\"Restaurant Two Two\"> is at <Addr=\"22 Chesterton Road Chesterton\"> .",
+        "WOZ20496_B1": "The address for <Name=\"Pizza Hut Cherry Hinton\"> is <Addr=\"G4 Cambridge Leisure Park Clifton Way Cherry Hinton\"> and the address for <Name=\"Restaurant Alimentum\"> is <Addr=\"152 - 154 Hills Road\"> ."
+    },
+    "Restaurant-Inform:Addr,Area": {
+        "MUL0146_B6": "It is also in the <Area=\"west side area\"> , located at <Addr=\"17 Magdalene Street City Centre\"> .",
+        "MUL1291_B6": "Sure ! It is in the <Area=\"south\"> area and the address is <Addr=\"10 Homerton Street City Centre\"> .",
+        "MUL1517_B5": "I was able to find it on <Addr=\"4 - 6 Rose Crescent\"> in the <Area=\"centre of town\"> .",
+        "MUL1559_B3": "It is the <Area=\"centre area\"> and its address is <Addr=\"Free School Lane City Centre\">",
+        "MUL2322_B3": "It is located in the <Area=\"south\"> and the address is <Addr=\"2G Cambridge Leisure Park Cherry Hinton Road Cherry Hinton\"> ."
+    },
+    "Restaurant-Inform:Addr,Area,Choice,Food,Name,Price": {
+        "MUL0114_B2": "There are <Choice=\"2\"> <Price=\"expensive\"> <Food=\"Chinese\"> restaurants in the <Area=\"south side\"> . <Name=\"The Peking Restaurant\"> is at <Addr=\"10 Homerton Street City Centre\"> .",
+        "MUL0167_B6": "There are <Choice=\"2\"> <Price=\"expensive\"> <Food=\"chinese\"> restaurants in the <Area=\"north\"> . <Name=\"The Hakka\"> is located at <Addr=\"Milton Road Chesterton\"> .",
+        "MUL1251_B1": "Of course ! There are <Choice=\"ten\"> <Food=\"chinese\"> restaurants in the <Area=\"centre\"> . How about <Name=\"Charlie Chan\"> ? It 's a <Price=\"cheap\"> place on <Addr=\"Regent Street\"> .",
+        "PMUL3616_B2": "<Name=\"Da vinci pizzeria\"> is <Choice=\"the only\"> <Price=\"cheap\"> <Food=\"Italian\"> restaurant in the <Area=\"north\"> , located at <Addr=\"20 Milton Road Chesterton\"> .",
+        "PMUL3793_B3": "I have <Choice=\"1\"> <Price=\"expensive\"> <Food=\"Indian\"> food in the <Area=\"south\"> . It 's called <Name=\"Taj Tandoori\"> . They are located on <Addr=\"64 Cherry Hinton Road Cherry Hinton\"> ."
+    },
+    "Restaurant-Inform:Addr,Area,Food,Name,Post,Price": {
+        "MUL1296_B6": "<Name=\"The Thanh Binh\"> is a <Price=\"cheap\"> <Food=\"Vietnamese\"> restaurant in the <Area=\"West\"> , and it is located in <Addr=\"17 Magdalene Street City Centre\"> <Post=\"cb30af\"> .",
+        "PMUL0776_B5": "<Name=\"Curry Garden\"> is an <Price=\"expensive\"> <Food=\"Indian\"> restaurant in the <Area=\"center of town\"> , located at <Addr=\"106 Regent Street City Centre\"> , <Post=\"cb21dp\"> .",
+        "PMUL3741_B3": "<Name=\"Sala Thong\"> is an <Price=\"expensive\"> <Food=\"Thai\"> place in the <Area=\"west\"> . They 're located at <Addr=\"35 Newnham Road\"> , <Post=\"cb39ey\"> .",
+        "PMUL4594_B4": "<Name=\"Bangkok City\"> is an <Price=\"expensive\"> <Food=\"thai\"> restaurant in the <Area=\"centre of town\"> . They are located at <Addr=\"24 Green Street City Centre\"> . Their postcode is <Post=\"cb23jx\"> .",
+        "SNG0477_B2": "<Name=\"la raza\"> is a <Price=\"cheap\"> restaurant serving <Food=\"spanish\"> food in the <Area=\"centre part of town\"> . It 's address is <Addr=\"4 - 6 Rose Crescent\"> and it 's post code is <Post=\"cb2311\"> .",
+        "WOZ20548_B2": "There is also the <Name=\"Cambridge Lodge Restaurant\"> also has <Price=\"expensive\"> <Food=\"european\"> food in the <Area=\"centre area\"> at <Addr=\"Cambridge Lodge Hotel 139 Huntingdon Road City Centre\"> postal code <Post=\"CB30DQ\">"
+    },
+    "Restaurant-Inform:Addr,Area,Name,Phone,Post": {
+        "MUL0348_B6": "Ok , lets go with <Name=\"Royal Spice\"> , it 's in the <Area=\"north area\"> , the phone number is <Phone=\"01733553355\"> , the postcode is <Post=\"cb41eh\"> , and the address is <Addr=\"Victoria Avenue Chesterton\"> .",
+        "MUL0872_B5": "The address for the <Name=\"Varsity Restaurant\"> is <Addr=\"35 Saint Andrews Street\"> <Area=\"City Centre\"> , <Post=\"cb23ar\"> . The phone number is <Phone=\"01223356060\"> .",
+        "MUL1372_B2": "<Name=\"Curry garden\"> is located in the <Area=\"centre\"> at <Addr=\"106 Regent Street City Centre\"> . It 's phone number is <Phone=\"01223302330\"> and the postcode is <Post=\"cb21dp\"> .",
+        "PMUL0943_B8": "<Name=\"Galleria\"> is in the <Area=\"center\"> , phone number is <Phone=\"01223362054\"> , post code is <Post=\"cb21uw\"> and the address is <Addr=\"33 Bridge Street\"> .",
+        "SNG0735_B3": "The <Name=\"golden house\"> is located at <Addr=\"12 Lensfield Road\"> <Area=\"City Centre\"> , postcode <Post=\"cb21eg\"> , and the phone number is <Phone=\"01842753771\"> ."
+    },
+    "Restaurant-Inform:Addr,Food": {
+        "MUL1263_B4": "It 's a <Food=\"chinese\"> restaurant located at <Addr=\"Regent Street City Centre\"> .",
+        "MUL1287_B6": "The address for the <Food=\"Indian\"> restaurant is <Addr=\"7 Milton Road Chesterton\"> .",
+        "MUL1309_B1": "Sure , they server <Food=\"international\"> food and are located at <Addr=\"Finders Corner Newmarket Road\"> .",
+        "MUL1365_B1": "That is a nice <Food=\"seafood\"> restaurant located on <Addr=\"Trumpington Street\"> .",
+        "MUL1485_B1": "I know that restaurant well . It is a <Food=\"Portuguese\"> place located on <Addr=\"Andrews Street\"> ."
+    },
+    "Restaurant-Inform:Addr,Food,Name,Phone,Post,Price": {
+        "PMUL3144_B3": "Sure . <Name=\"Da Vinci Pizzeria\"> is a <Price=\"cheap\"> <Food=\"Italian\"> restaurant in the area . The address is <Addr=\"20 Milton Road Chesterton\"> <Post=\"CB41JY\"> and the phone number is <Phone=\"01223351707\"> .",
+        "PMUL3655_B1": "<Name=\"Panahar\"> is an <Price=\"expensive\"> <Food=\"Indian\"> restaurant located at <Addr=\"8 Norfolk Street City Centre\"> , <Post=\"cb12lf\"> . Their phone number is <Phone=\"01223355012\"> .",
+        "PMUL4902_B2": "<Name=\"La Raza\"> is a <Price=\"cheap\"> <Food=\"spanish\"> restaurant . It is located at <Addr=\"4-6 Rose Crescent\"> . Their postcode is <Post=\"cb23ll\"> . Their phone number is <Phone=\"01223464550\"> .",
+        "SNG0660_B1": "Absolutely . <Name=\"Panahar\"> is a more <Price=\"expensive\"> <Food=\"indian\"> restaurant . It is located at <Addr=\"8 Norfolk Street City Centre\"> . Their postal code is <Post=\"cb12lf\"> . Their phone number is <Phone=\"01223355012\"> ."
+    },
+    "Restaurant-Inform:Addr,Food,Name,Phone,Price": {
+        "MUL0159_B5": "<Name=\"the maharajah tandoori\"> restaurant serves <Price=\"expensive\"> <Food=\"indian\"> food . Their address is <Addr=\"41518 Castle Street City Centre\"> . Their contact number is <Phone=\"01223358399\"> .",
+        "MUL0345_B4": "The <Name=\"Grafton hotel restaurant\"> is <Food=\"British\"> and <Price=\"expensive\"> . Their phone number is <Phone=\"01223241387\"> and the address is <Addr=\"Grafton Hotel 619 Newmarket Road Fen Ditton\"> .",
+        "MUL1432_B1": "<Name=\"The golden curry\"> is an <Food=\"Indian\"> restaurant that is <Price=\"expensive\"> and located at <Addr=\"Mill Road City Centre\"> . The phone number is <Phone=\"01223329432\"> .",
+        "MUL2404_B4": "Certainly , <Name=\"Gourmet Burger Kitchen\"> is an <Price=\"expensive\"> <Food=\"north american\"> restaurant , address <Addr=\"Regent Street City Center\"> , phone <Phone=\"01223312598\"> .",
+        "SSNG0061_B1": "<Name=\"Ask\"> is a <Price=\"cheap\"> <Food=\"Italian\"> restaurant located at <Addr=\"12 Bridge Street City Centre\"> , and their phone number is <Phone=\"01223364917\">"
+    },
+    "Restaurant-Inform:Addr,Food,Phone": {
+        "MUL1607_B6": "Yes , it 's <Food=\"British\"> food and the phone number is <Phone=\"01223277977\"> , with the address of <Addr=\"Hotel Felix Whitehouse Lane Huntingdon Road\"> .",
+        "SNG0648_B1": "Yes sure . I can tell you it serves <Food=\"gastropub\"> food fare and is located at <Addr=\"Corn Exchange Street\"> and their telephone number is <Phone=\"01223308871\"> .",
+        "WOZ20068_B2": "<Food=\"Indian\"> food . The address is <Addr=\"7 Milton Road Chesterton\"> and the phone number is <Phone=\"01223 360966\"> .",
+        "WOZ20172_B3": "They serve <Food=\"modern European\"> food and are located at <Addr=\"152 - 154 Hills Road\"> . Their number is <Phone=\"01223 413000\"> .",
+        "WOZ20282_B3": "The address is at <Addr=\"Newmarket Road Fen Ditton\"> and the phone number is <Phone=\"01223 577786\"> . The restaurant serves <Food=\"indian\"> food .",
+        "WOZ20516_B1": "there is an <Food=\"Asian Oriental\"> place at <Addr=\"40428 King Street City Centre\"> . You can call them at <Phone=\"01223 518111\"> ."
+    },
+    "Restaurant-Inform:Addr,Food,Price": {
+        "MUL1228_B2": "It is an <Price=\"expensive\"> <Food=\"Chinese\"> restaurant located at <Addr=\"10 Homerton Street City Centre\"> .",
+        "MUL1257_B6": "It is located at <Addr=\"20 Milton Road Chesterton\"> and offers <Food=\"Italian\"> food at <Price=\"low cost\"> .",
+        "MUL1365_B2": "It is an <Price=\"expensive\"> restaurant . They serve <Food=\"seafood\"> and they are located at <Addr=\"The Little Rose 37 Trumpington Street\"> .",
+        "PMUL0778_B7": "It is located at <Addr=\"35 Saint Andrews Street City Centre\"> . It is a <Price=\"moderately priced\"> <Food=\"international\"> restaurant .",
+        "PMUL2079_B1": "It is <Food=\"British\"> Food that is <Price=\"expensive\"> at <Addr=\"Huntingdon Road City Centre\"> .",
+        "PMUL4623_B2": "They are an <Price=\"expensive\"> <Food=\"Italian\"> restaurant located at <Addr=\"12 Market Hill City Centre\"> ."
+    },
+    "Restaurant-Inform:Addr,Name,Phone,Price": {
+        "MUL0190_B2": "The <Name=\"Curry Garden\"> is an <Price=\"expensive\"> restaurant located at <Addr=\"106 Regent Street City Centre\"> . Their phone number is <Phone=\"01223302330\"> .",
+        "MUL0952_B3": "Yes <Name=\"Lan Hong House\"> is located at <Addr=\"12 Norfolk Street City Centre\"> , they are <Price=\"moderately priced\"> and their telephone is <Phone=\"01223350420\"> .",
+        "MUL1506_B5": "It is <Name=\"frankie and bennys\"> , the are in the <Price=\"expensive\"> range . the address is <Addr=\"Cambridge Leisure Park Clifton Way Cherry Hinton\"> and they can be reached at <Phone=\"01223412430\">",
+        "MUL1594_B5": "Yes , it is <Name=\"pizza hut fen ditton\"> . They are <Price=\"moderate\"> price and located at <Addr=\"Cambridge Retail Park Newmarket Road Fen Ditton\"> . The phone number is <Phone=\"01223323737\"> .",
+        "MUL1620_B2": "Yes , it is called <Name=\"Royal Spice\"> and is <Price=\"cheaply priced\"> . The phone number is <Phone=\"01733553355\"> and the address is <Addr=\"Victoria Avenue Chesterton\"> ."
+    },
+    "Restaurant-Inform:Addr,Name,Price": {
+        "MUL0059_B3": "<Name=\"Restaurant Alimentum\"> is <Price=\"moderately priced\"> . They are located at <Addr=\"152-154 Hills Road\"> .",
+        "MUL0386_B1": "<Name=\"Golden Wok\"> is in the <Price=\"moderate\"> price range , its address is <Addr=\"191 Histon Road Chesterton\"> , and its business hours are unknown .",
+        "MUL1337_B5": "<Name=\"The india house\"> is in the <Price=\"expensive\"> price range and located at <Addr=\"31 Newnham Road Newnham\"> .",
+        "MUL1551_B6": "Yes , <Name=\"the gandhi\"> is in the <Price=\"cheap\"> price range . Their address is <Addr=\"72 Regent Street City Centre\"> .",
+        "MUL1666_B7": "Yes <Name=\"Midsummer House Restaurant\"> is <Price=\"expensive\"> , it 's located at <Addr=\"Midsummer Common\"> ."
+    },
+    "Restaurant-Inform:Addr,Price": {
+        "MUL0985_B4": "It is in the <Price=\"expensive\"> price range . The address is <Addr=\"2G Cambridge Leisure Park Cherry Hinton Road Cherry Hinton\"> .",
+        "MUL1326_B3": "the pricerange is <Price=\"expensive\"> and its at <Addr=\"108 Regent Street City Centre\"> .",
+        "MUL1364_B7": "Sure , the address is <Addr=\"Cambridge Retail Park Newmarket Road in Fen Ditton\"> and the price range is <Price=\"moderate\"> .",
+        "MUL1367_B3": "The address is <Addr=\"169 High Street Chesterton Chesterton\"> and the price range is <Price=\"fairly expensive\"> .",
+        "PMUL0699_B4": "It is located at <Addr=\"40210 Millers Yard City Centre\"> and is <Price=\"cheap\"> ."
+    },
+    "Restaurant-Inform:Area,Choice,Food,Food,Price": {
+        "MUL0112_B2": "There are <Choice=\"two\"> restaurants that are <Price=\"cheap\"> in the <Area=\"south\"> part of town . A <Food=\"Chinese\"> restaurant and a <Food=\"Protugese\"> restaurant .",
+        "MUL1620_B1": "Yes their are <Choice=\"two\"> restaurants in the <Area=\"north\"> one serves <Food=\"indian\"> food the other serves <Food=\"italian\"> food both meet <Price=\"your price range\">",
+        "PMUL0098_B6": "There is a <Food=\"Chinese\"> restaurant and an <Food=\"Indian\"> restaurant in the <Area=\"north\"> . <Choice=\"Both\"> are <Price=\"moderate priced\"> which do you prefer ?",
+        "PMUL0564_B2": "How about <Food=\"Chinese\"> or <Food=\"European\"> ? I have <Choice=\"many\"> options in the <Area=\"center\"> that are <Price=\"moderate\"> in price .",
+        "PMUL0639_B2": "We have <Choice=\"21\"> <Price=\"moderately priced\"> restaurants in the <Area=\"center\"> , with cuisines ranging from <Food=\"Asian Oriental\"> to <Food=\"Gastropub\"> ."
+    },
+    "Restaurant-Inform:Area,Choice,Food,Name": {
+        "MUL0164_B2": "There is <Choice=\"one\"> <Food=\"Mexican\"> restaurant in the <Area=\"south\"> . <Name=\"The Chiquito Restaurant Bar\"> .",
+        "MUL0287_B1": "<Choice=\"The only\"> <Food=\"Thai\"> restaurant located in <Area=\"Centre Cambridge\"> is <Name=\"Bangkok City\"> .",
+        "MUL0314_B5": "I have <Choice=\"2\"> results for <Food=\"mediterranean\"> restaurants . One is <Name=\"la mimosa\"> in <Area=\"town centre\"> .",
+        "MUL0856_B1": "There is <Choice=\"only one\"> <Food=\"Japanese\"> restaurant in the <Area=\"centre\"> , <Name=\"Wagamama\"> .",
+        "PMUL0367_B2": "There is <Choice=\"one\"> <Food=\"Italian\"> place in the <Area=\"east\"> , <Name=\"Pizza Hut Fen Ditton\"> ."
+    },
+    "Restaurant-Inform:Area,Choice,Food,Name,Name,Name,Price": {
+        "MUL0352_B5": "There are <Choice=\"three\"> <Food=\"Chinese\"> restaurants in the <Area=\"Centre\"> that are in the <Price=\"cheap\"> price range : <Name=\"Charlie Chan\"> , <Name=\"Rice House\"> , and <Name=\"Golden House\"> .",
+        "MUL1332_B6": "I have <Choice=\"3\"> <Price=\"cheap\"> <Food=\"chinese\"> restaurants in the <Area=\"centre\"> of town . The <Name=\"Charlie Chan\"> , <Name=\"The Rice House\"> , <Name=\"and the Golden House\"> .",
+        "PMUL2294_B2": "There are <Choice=\"3\"> <Price=\"cheap\"> <Food=\"chinese\"> restaurants in the <Area=\"centre\"> . <Name=\"charlie chan\"> , <Name=\"rice house\"> , and <Name=\"golden house\"> .",
+        "PMUL3088_B4": "There are <Choice=\"three\"> <Price=\"cheap\"> <Food=\"Indian\"> restaurants in the <Area=\"Centre\"> , <Name=\"Kohinoor\"> , <Name=\"the gandhi\"> , and <Name=\"mahal of cambridge\"> .",
+        "SNG0725_B3": "There are <Choice=\"3\"> <Price=\"cheap\"> <Food=\"chinese\"> restaurants in the <Area=\"centre\"> of town : <Name=\"Charlie Chan\"> , <Name=\"Rice House\"> , or <Name=\"Golden House\"> ."
+    },
+    "Restaurant-Inform:Area,Choice,Name": {
+        "MUL0092_B2": "There is <Choice=\"one\"> . <Name=\"De Luca Cicina and Bar\"> located in the <Area=\"centre\"> .",
+        "MUL0170_B5": "The <Choice=\"only result\"> in your area meeting that criteria is <Name=\"Gourmet Burger Kitchen\"> in <Area=\"centre\"> .",
+        "MUL1591_B5": "There are <Choice=\"5\"> restaurants in the area . I like <Name=\"Frankie and Bennys\"> in the <Area=\"south\"> .",
+        "MUL1643_B1": "Yes , I found <Choice=\"one\"> located in the <Area=\"centre of town\"> called <Name=\"The River Bar Steakhouse and Grill\"> .",
+        "MUL2436_B4": "There are <Choice=\"a few\"> to choose from . <Name=\"Charlie Chan\"> could be good , it 's also in the <Area=\"centre\"> ."
+    },
+    "Restaurant-Inform:Area,Choice,Name,Name": {
+        "MUL0851_B2": "There are <Choice=\"2\"> restaurants that meet your criteria ; <Name=\"Eraina\"> and <Name=\"Michaelhouse Cafe\"> . They are both in the <Area=\"centre of town\"> .",
+        "MUL1297_B6": "I have located <Choice=\"2\"> restaurants in the <Area=\"area\"> <Name=\"the Golden Wok\"> and <Name=\"the Nirala\"> .",
+        "PMUL0300_B3": "There are <Choice=\"2\"> in the <Area=\"north\"> . One is <Name=\"Hakka\"> and the other is <Name=\"The Hotpot\"> .",
+        "PMUL0412_B2": "I have <Choice=\"two\"> options to choose from . <Name=\"Pizza Express\"> and <Name=\"Pizza Express Fen Ditton\"> are both in the <Area=\"centre of town\"> .",
+        "PMUL0625_B3": "I have <Choice=\"two\"> - both in <Area=\"centre\"> . <Name=\"The varsity Resturant\"> and <Name=\"Bloomsbury\"> ."
+    },
+    "Restaurant-Inform:Area,Choice,Name,Price": {
+        "MUL0013_B4": "OK , there are <Choice=\"4\"> different Indian restaurants in the <Price=\"cheap\"> price range , might I suggest <Name=\"Mahal of Cambridge\"> ? It 's located in the <Area=\"centre area\"> .",
+        "MUL0071_B2": "Out of the <Choice=\"21\"> restaurant choices , one is the <Name=\"Yippee Noodle Bar\"> which is <Price=\"moderately priced\"> in the <Area=\"centre of town\"> .",
+        "MUL2353_B5": "Okay . I have <Choice=\"9\"> restaurants in the <Price=\"expensive\"> range . <Name=\"Hakka\"> is in the <Area=\"north\"> and is very popular .",
+        "PMUL0228_B1": "I have found <Choice=\"three\"> restaurants for you all in the <Area=\"center\"> of town . The <Price=\"expensive\"> restaurant is <Name=\"Meze Bar Restaurant\"> .",
+        "PMUL0565_B1": "I have only <Choice=\"one\"> option that is in the <Price=\"expensive\"> price range and in the <Area=\"center of town\"> . It is called <Name=\"Loch Fyne\"> ."
+    },
+    "Restaurant-Inform:Area,Food,Name,Name,Price": {
+        "MUL0180_B5": "I have the <Name=\"Pizza Hut\"> that is <Price=\"moderately priced\"> in the <Area=\"South\"> and also <Name=\"Restaurant Alimentum\"> that serves <Food=\"modern European\"> food .",
+        "MUL0260_B6": "The <Name=\"Varsity Restaurant\"> and <Name=\"Bloomsbury Restaurant\"> are both <Price=\"moderately priced\"> <Food=\"international\"> restaurants in the <Area=\"center of town\"> .",
+        "PMUL3313_B2": "<Name=\"Backstreet Bistro\"> and <Name=\"The Slug and Lettuce\"> are both <Price=\"expensive\"> <Food=\"gastropub\"> restaurant in the <Area=\"centre of town\"> .",
+        "PMUL4279_B3": "<Name=\"The Varsity Restaurant\"> and <Name=\"Bloomsbury restaurant\"> are both in the <Area=\"centre of town\"> and serve <Food=\"international\"> food in the <Price=\"moderate\"> price range .",
+        "SNG0717_B3": "For <Food=\"indian\"> food , I have <Name=\"the Curry Prince\"> restaurant and <Name=\"Rajmahal\"> . They are both <Price=\"moderately priced\"> and located in the <Area=\"east\"> .",
+        "WOZ20156_B2": "<Name=\"Anatolia\"> and <Name=\"Efes Restaurant\"> are both <Price=\"moderately priced\"> <Food=\"Turkish\"> restaurants , and both are in the <Area=\"centre of town\"> ."
+    },
+    "Restaurant-Inform:Area,Name,Name,Price": {
+        "MUL0956_B2": "There is <Name=\"La Mimosa\"> and <Name=\"Shiraz restaurant\"> that are both in the <Area=\"Centre\"> and both <Price=\"expensive\"> .",
+        "SNG0596_B2": "We have <Name=\"dojo noodle bar\"> , and <Name=\"j restaurant\"> which are both <Price=\"cheap\"> restaurants in the <Area=\"centre\"> of town .",
+        "WOZ20269_B2": "<Name=\"Curry Prince\"> is <Price=\"moderately priced\"> and in the <Area=\"east\"> part of town . Alternatively , so is <Name=\"Rajmahal\"> .",
+        "WOZ20301_B2": "Great ! <Name=\"Da vinci pizzeria\"> and <Name=\"Royal Spice\"> are both <Price=\"cheap\"> and located in the <Area=\"north\"> part of town ."
+    },
+    "Restaurant-Inform:Choice,Food,Food": {
+        "MUL1281_B1": "I ahve <Choice=\"two\"> places , <Food=\"Chines\"> and <Food=\"Portuguese\"> , which would you prefer ?",
+        "MUL1445_B1": "I have <Choice=\"three\"> different ones . I have two <Food=\"expensive\"> ones and one that is rather <Food=\"cheap\"> .",
+        "MUL1496_B5": "There are <Food=\"Australian\"> restaurants in the area however there are <Choice=\"22\"> <Food=\"Indian\"> restaurants .",
+        "MUL2310_B5": "There are <Choice=\"2\"> option to choose from : <Food=\"curry prince\"> and <Food=\"rajmahal\"> .",
+        "MUL2384_B1": "I have <Choice=\"2\"> options available . Would you rather have <Food=\"Indian\"> or <Food=\"Italian\"> food ?"
+    },
+    "Restaurant-Inform:Choice,Food,Food,Food": {
+        "MUL0226_B1": "We have <Choice=\"a wide variety\"> of restaurant choices ! The options range from <Food=\"Asian Oriental\"> , <Food=\"European\"> , and <Food=\"French\"> . I can give you information on any of those choices if you want .",
+        "MUL1243_B1": "Well there are <Choice=\"quite a few\"> . I see <Food=\"african\"> , <Food=\"asian\"> , and <Food=\"british\"> cuisine . What area will you be in so that I can narrow down the search",
+        "MUL2494_B3": "I have <Choice=\"3\"> choices for you . The first serves <Food=\"british\"> food , the second serves <Food=\"indian\"> cuisine , and the third is an <Food=\"italian\"> place .",
+        "PMUL0297_B1": "There are <Choice=\"three\"> options , <Food=\"british\"> , <Food=\"indian\"> and <Food=\"italian\"> , any preference ?",
+        "PMUL0561_B6": "I have <Choice=\"so many\"> options including <Food=\"Africa\"> , <Food=\"British\"> and <Food=\"Asian\"> ."
+    },
+    "Restaurant-Inform:Choice,Food,Food,Food,Food": {
+        "MUL0122_B1": "There are <Choice=\"several\"> . Would you like <Food=\"British\"> , <Food=\"Chinese\"> , <Food=\"Gastropub\"> , <Food=\"or Indian cuisine\"> ?",
+        "MUL1353_B19": "I have about <Choice=\"5\"> different options available for you . I have <Food=\"indian\"> , <Food=\"gastropub\"> , <Food=\"chinese\"> and <Food=\"british\"> .",
+        "MUL1369_B6": "I have <Choice=\"9\"> different restaurants . They offer <Food=\"british\"> , <Food=\"european\"> , <Food=\"indian food\"> and <Food=\"thai\"> .",
+        "MUL1462_B4": "I have <Choice=\"5\"> different restaurants . I have an <Food=\"asian oriental\"> , <Food=\"two chinese\"> , <Food=\"a european\"> , <Food=\"and a french restaurant\"> .",
+        "MUL2466_B1": "We have <Choice=\"several\"> options available to you . We have <Food=\"Chinese\"> , <Food=\"Indian\"> , <Food=\"Italian\"> , and <Food=\"Mexican\"> as options ."
+    },
+    "Restaurant-Inform:Choice,Food,Name,Name,Price": {
+        "MUL0366_B2": "I have <Choice=\"two\"> that serve <Food=\"Turkish\"> food , both in the <Price=\"moderate\"> price range : <Name=\"Anatolia\"> and <Name=\"Efes Restaurant\"> .",
+        "MUL1304_B1": "There are <Choice=\"two\"> <Price=\"high end\"> <Food=\"Asian\"> restaurants , <Name=\"Saigon City\"> and <Name=\"Kymmoy\"> .",
+        "MUL1601_B4": "There are <Choice=\"two\"> <Price=\"cheap\"> <Food=\"Portuguese\"> restaurants located in the city , the <Name=\"Nandos\"> and <Name=\"Nandos City Centre\"> .",
+        "PMUL0355_B5": "i have <Choice=\"2\"> places that serve <Food=\"french\"> food and are <Price=\"expensive\"> . one is <Name=\"restaurant two two\"> . the other is <Name=\"cote\"> .",
+        "PMUL2275_B4": "<Name=\"Pipasha Restaurant\"> and <Name=\"Sitar Tandoori\"> are the <Choice=\"2\"> <Price=\"expensive\"> <Food=\"Indian\"> restaurants in the area ."
+    },
+    "Restaurant-Inform:Choice,Food,Name,Price": {
+        "MUL0078_B4": "There is <Choice=\"one\"> <Food=\"Indian\"> restaurant in that area - <Name=\"Taj Tandoori\"> . It is <Price=\"expensive\"> .",
+        "MUL1360_B4": "There is <Choice=\"one\"> place at the <Price=\"cheap\"> price range , it is a place that serves <Food=\"international\"> food by the name of the <Name=\"missing sock\"> .",
+        "MUL1429_B5": "There are <Choice=\"several\"> to choose from . The <Name=\"Grafton Hotel Restaurant\"> serves <Food=\"classic British\"> fare , but is on the <Price=\"expensive side\"> .",
+        "SNG01554_B1": "There are <Choice=\"five\"> <Food=\"Italian\"> restaurants in the <Price=\"moderate\"> price range . Four have pizza in their names and then there is <Name=\"Prezzo\"> .",
+        "SNG0604_B2": "The <Choice=\"only\"> <Price=\"moderate\"> <Food=\"Indian\"> restaurant in that area is <Name=\"Meghna\"> , and they are not available for that time .",
+        "WOZ20155_B2": "There is <Choice=\"one\"> <Price=\"expensive\"> <Food=\"Turkish\"> restaurant in town : <Name=\"Meze Bar Restaurant\"> ."
+    },
+    "Restaurant-Inform:Choice,Name,Name,Name,Name": {
+        "MUL0311_B6": "There are <Choice=\"4\"> options - <Name=\"dojo noodle bar\"> , <Name=\"yippee noodle bar\"> , <Name=\"j restaurant\"> , and <Name=\"kymmoy\"> .",
+        "MUL0838_B4": "There are <Choice=\"four\"> in the area . <Name=\"Statizione Restaurant and Coffee Bar\"> , <Name=\"Clowns Cafe\"> , <Name=\"Don Pasquale Pizzeria\"> , and <Name=\"Caffe Uno\"> .",
+        "MUL0918_B5": "Yes , I have found <Choice=\"4\"> . <Name=\"Ugly duckling\"> , <Name=\"tang chinese\"> , <Name=\"hk fusion\"> and <Name=\"sesame restaurant and bar\"> .",
+        "MUL1245_B2": "There are <Choice=\"4\"> restaurants to choose from . <Name=\"Restaurant One Seven\"> , <Name=\"The Oak Bistro\"> , <Name=\"The Copper Kettle\"> , <Name=\"and Cotto\"> .",
+        "MUL1284_B6": "There are <Choice=\"4\"> in the price range you asked for : <Name=\"Charlie Chan\"> , <Name=\"Rice House\"> , <Name=\"The Lucky Star\"> and <Name=\"the Golden house\"> ."
+    },
+    "Restaurant-Inform:Choice,Name,Price": {
+        "MUL1325_B5": "I have <Choice=\"two\"> near the hotel , <Name=\"the la margherita\"> is very <Price=\"cheap\"> .",
+        "MUL2458_B1": "We have <Choice=\"7\"> , in fact . If not , <Name=\"the Copper Kettle\"> is a <Price=\"moderately priced\"> , popular choice .",
+        "PMUL0036_B2": "I have <Choice=\"one\"> listing in the <Price=\"cheap\"> range for <Name=\"thanh binh\"> .",
+        "PMUL0103_B4": "I have the <Name=\"Taj Tandoori\"> that is in the <Price=\"expensive\"> price range . This is the <Choice=\"only\"> option I have .",
+        "PMUL0983_B8": "How about <Name=\"Yippee Noodle bar\"> , it 's the <Choice=\"only one\"> that is <Price=\"moderately priced\"> ."
+    },
+    "Restaurant-Inform:Food,Name,Name": {
+        "MUL1500_B4": "<Name=\"Riverside\"> is <Food=\"modern european\"> . I also have <Name=\"de luca\"> .",
+        "MUL1598_B2": "Yes , both <Name=\"Hakka\"> and <Name=\"The Hotpot\"> serve <Food=\"Chinese\"> .",
+        "SSNG0150_B3": "I have <Name=\"Backstreet Bistro\"> and <Name=\"The Cow Pizza Kitchen Bar\"> . They both serve <Food=\"gastropub\"> food .",
+        "WOZ20673_B3": "<Name=\"anatolia\"> and <Name=\"efes restaurants\"> are <Food=\"turkish\"> ."
+    },
+    "Restaurant-Inform:Food,Name,Phone": {
+        "PMUL0584_B4": "<Name=\"Rice house\"> is a <Food=\"chinese\"> restaurant and their phone number is <Phone=\"01223367755\"> .",
+        "PMUL3067_B4": "Great , I found the <Food=\"Mediterranean\"> restaurant called <Name=\"Shiraz\"> . Their telephone number is <Phone=\"01223307581\"> .",
+        "WOZ20080_B3": "<Name=\"Bangkok City\"> is <Food=\"expensive\"> . Their phone number is <Phone=\"01223 354382\"> .",
+        "WOZ20273_B2": "<Name=\"Cambridge lodge restaurant\"> serves <Food=\"european\"> food . Their phone number is <Phone=\"01223 355166\"> .",
+        "WOZ20530_B2": "The <Food=\"Vietnamese\"> restaurant 's name is <Name=\"Thanh Binh\"> , the phone number is <Phone=\"01223 362456\"> ."
+    },
+    "Restaurant-Inform:Name,Name,Name": {
+        "MUL0121_B4": "I found three restaurants , <Name=\"Charlie Chan\"> , <Name=\"Rice House\"> , <Name=\"and Golden House\"> , which would you like to book ?",
+        "MUL0974_B2": "In that price range , you have your choice of the <Name=\"Kohinoor\"> , <Name=\"the Gandhi\"> , <Name=\"and the Mahal of Cambridge\"> .",
+        "MUL1231_B3": "they are <Name=\"fitbillies restaurant\"> , <Name=\"the cambridge chop house\"> and <Name=\"the midsummer house restaurant\">",
+        "MUL1399_B6": "<Name=\"Kohinoor\"> , <Name=\"The Gandhi\"> and <Name=\"Mahal of Cambridge\"> all fit your criteria .",
+        "MUL1618_B5": "There are three possibilities . <Name=\"Pizza hut city centre\"> , <Name=\"ask\"> or <Name=\"zizzi cambridge\"> ."
+    },
+    "Restaurant-Inform:Name,Name,Price": {
+        "MUL0044_B10": "<Name=\"Curry Prince\"> and <Name=\"Rajmahal\"> are both <Price=\"moderately priced\"> .",
+        "MUL0834_B2": "<Name=\"The Riverside Brasserie\"> and <Name=\"De Luca Cucina and Bar\"> are both in the <Price=\"moderate\"> price range .",
+        "MUL0852_B5": "<Name=\"Sitar Tandoori\"> and <Name=\"Pipasha Restaurant\"> are the <Price=\"expensive\"> options .",
+        "MUL1586_B2": "The restaurants are called <Name=\"Curry Prince\"> and the other is <Name=\"Rajmahal\"> . They are both in the <Price=\"moderate\"> price range .",
+        "PMUL0516_B5": "<Name=\"La Mimosa\"> is not <Price=\"cheap\"> , but <Name=\"The Gardenia\"> is .",
+        "SSNG0129_B4": "the <Name=\"varsity restaurant\"> and <Name=\"bloomsbury restaurant\"> are in the <Price=\"moderate\"> price range ."
+    },
+    "Restaurant-NoOffer:Area,Price": {
+        "PMUL0619_B1": "There is nothing <Price=\"cheap\"> in <Area=\"centre\"> .",
+        "PMUL0912_B2": "I do n't have anything that is <Price=\"cheap\"> in the <Area=\"south\"> .",
+        "SNG0530_B2": "There is no <Price=\"expensive\"> Mediterranean restaurant in the <Area=\"south\"> .",
+        "SNG0749_B1": "Certainly ! However , there are no <Price=\"moderately priced\"> restaurants in the <Area=\"town centre\"> ."
+    },
+    "Restaurant-Recommend:Addr,Area,Food,Name": {
+        "MUL0204_B4": "My recommendation would be the <Name=\"Ugly Duckling\"> , a <Food=\"Chinese\"> restaurant in the <Area=\"centre of town\"> . It is located at <Addr=\"12 St. Johns Street City Centre\"> .",
+        "MUL0993_B3": "Absolutely , I recommend the <Name=\"Cambridge Chop House\"> at <Addr=\"1 Kings Parade\"> in the <Area=\"centre of town\"> . This is a highly recommended <Food=\"British\"> experience by locals and tourists a-like .",
+        "PMUL0248_B4": "<Name=\"Eraina\"> is a great <Food=\"european\"> restaurant in the <Area=\"centre of town\"> . It 's located at <Addr=\"Free School Lane City Centre\"> .",
+        "PMUL0970_B2": "I would recommend <Name=\"the gardenia\"> , a <Food=\"mediterranean\"> restaurant located in the <Area=\"centre of town\"> at <Addr=\"2 Rose Crescent City Centre\"> .",
+        "SSNG0184_B1": "<Name=\"The Missing Sock\"> serves <Food=\"international\"> food and is located in the <Area=\"east side of town\"> , at <Addr=\"Finders Corner Newmarket Road\"> ."
+    },
+    "Restaurant-Recommend:Food,Food,Name,Name": {
+        "PMUL0409_B6": "Yes we have <Name=\"Royal Spice\"> which is an <Food=\"Indian\"> Restaurant and <Name=\"Da Vinci Pizzeria\"> which is <Food=\"Italian\"> .",
+        "PMUL3611_B3": "There 's a fantastic <Food=\"British\"> restaurant , <Name=\"Restaurant One Seven\"> . Or if you 're interested in <Food=\"Chinese\"> food , <Name=\"Jingling Noodle Bar\"> also has wonderful reviews .",
+        "PMUL4596_B1": "An <Food=\"Indian\"> restaurant called <Name=\"Royal Spice\"> and an <Food=\"Italian\"> place called <Name=\"Da Vinci Pizzeria\"> .",
+        "PMUL4633_B2": "There is <Name=\"da vinci pizzeria\"> , an <Food=\"Italian\"> food place , and also <Name=\"royal spice\"> , an <Food=\"Indian\"> food place ."
+    },
+    "Restaurant-Select:Food,Food,Food": {
+        "MUL0045_B7": "Would you be interested in <Food=\"Asian\"> , <Food=\"Brittish\"> , or <Food=\"chinese\"> ?",
+        "MUL0313_B4": "Do you have a preference of food types , between <Food=\"african\"> , <Food=\"asian oriental\"> and <Food=\"british\"> ?",
+        "MUL1471_B4": "Would you be interested in <Food=\"british\"> , <Food=\"indian\"> , or <Food=\"italian\"> ?",
+        "MUL1541_B5": "Would you prefer <Food=\"British\"> , <Food=\"Indian\"> , or <Food=\"Italian\"> ?",
+        "MUL2435_B3": "Would you prefer <Food=\"British\"> , <Food=\"Indian\"> or <Food=\"Italian\"> ?"
+    },
+    "Restaurant-Select:Food,Food,Food,Food,Food": {
+        "PMUL0502_B1": "Would you like <Food=\"Indian\"> , <Food=\"Chinese\"> , <Food=\"British\"> , <Food=\"International\"> fare or a <Food=\"Gastropub\"> ?",
+        "PMUL3405_B1": "Would you like <Food=\"British\"> , <Food=\"Asian\"> , <Food=\"European\"> , <Food=\"Italian\"> or <Food=\"something different\"> ?",
+        "PMUL3776_B2": "We have <Food=\"chinese\"> , <Food=\"italian\"> , <Food=\"european\"> , <Food=\"spanish\"> , <Food=\"british\"> . Do any of those interest you ?",
+        "WOZ20434_B1": "I have found some . Would you like <Food=\"Italian\"> , <Food=\"Chinese\"> , <Food=\"Asian Oriental\"> , <Food=\"Indian\"> , or <Food=\"Spanish\"> food ?"
+    },
+    "Restaurant-Select:Name,Name": {
+        "MUL0138_B7": "Did you want the <Name=\"anatolia\"> or <Name=\"efes restaurant\"> ?",
+        "MUL0899_B2": "Would you prefer <Name=\"the Backstreet Bistro\"> or <Name=\"The Slug and Lettuce\"> ?",
+        "MUL0996_B4": "Would you be interested in <Name=\"The Varsity Restaurant\"> , <Name=\"or the Bloomsbury Restaurant\"> ?",
+        "MUL2309_B1": "Alright how about either the <Name=\"anatolia\"> or <Name=\"efes restaurant\"> ?",
+        "PMUL0091_B6": "how about <Name=\"curry prince\"> or <Name=\"pipasha\"> ?"
+    },
+    "Restaurant-Select:Name,Name,Name": {
+        "MUL1202_B4": "Which do you prefer : <Name=\"Pizza Hut City Centre\"> , <Name=\"Ask\"> , or <Name=\"Zizzi Cambridge\"> ?",
+        "PMUL0048_B4": "The restaurants are : <Name=\"jinling noodle bar\"> , <Name=\"lan hong house\"> and <Name=\"shanghai family restaurant\"> .",
+        "PMUL0315_B2": "I have <Name=\"Pizza Hut City Centre\"> , <Name=\"Ask\"> , <Name=\"and Zizzi Cambridge\"> . Which would you prefer ?",
+        "PMUL0574_B2": "you can choose from <Name=\"eraina\"> , <Name=\"michaelhouse cafe\"> , or <Name=\"darrys cookhouse and wine shop\">",
+        "PMUL0640_B8": "There 's <Name=\"Pizze Hut City Centre\"> , <Name=\"Ask\"> , and also <Name=\"Zizzi Cambridge\"> .",
+        "SSNG0023_B2": "They are <Name=\"pizza hut city centre\"> , <Name=\"ask\"> , and <Name=\"zizzi Cambridge\"> ."
+    },
+    "Taxi-Inform:Arrive,Car,Phone": {
+        "MUL0114_B10": "Yes I have booked you a taxi and a <Car=\"blue Honda\"> will be picking you up to arrive by <Arrive=\"15:30\"> . The contact number for the taxi is <Phone=\"07711738338\"> .",
+        "MUL0143_B8": "I have booked a <Car=\"black honda\"> for you that will arrive at <Arrive=\"18:00\"> . Please call <Phone=\"07851425026\"> if you need to adjust the pick up time .",
+        "MUL0857_B11": "Okay I was able to secure you a <Car=\"grey Toyota\"> that will make sure you arrive by <Arrive=\"13:30\"> and their contact number is <Phone=\"07542624633\"> .",
+        "MUL2413_B6": "I have booked you a taxi that will get you there by <Arrive=\"13:15\"> . The car type is a <Car=\"blue Tesla\"> and the contact number <Phone=\"07664553144\"> .",
+        "PMUL0047_B6": "The car type is a <Car=\"White Volkswagen\"> and the contact info is <Phone=\"07869317817\"> . They will pick you up in time to have you at the restaurant by <Arrive=\"16:45\"> ."
+    },
+    "Train-Inform:Arrive,Arrive": {
+        "MUL0238_B3": "Yes I have trains that arrive from <Arrive=\"5:56\"> to <Arrive=\"15:24\"> .",
+        "MUL0427_B4": "There is a train arriving at <Arrive=\"06:54\"> and one at <Arrive=\"07:54\"> .",
+        "MUL0457_B4": "There is a train that arrives at <Arrive=\"17:51\"> the closest before that is a train that arrives at <Arrive=\"15:51\"> .",
+        "MUL0592_B5": "The closest arrival time to <Arrive=\"20:00\"> is <Arrive=\"18:07\"> , is that suitable ?",
+        "MUL0627_B3": "Yes I have a train that arrives at <Arrive=\"20:56\"> or <Arrive=\"21:24\"> ."
+    },
+    "Train-Inform:Arrive,Arrive,Choice": {
+        "MUL0202_B6": "I 'm showing a train that will arrive at <Arrive=\"18:10\"> or one at <Arrive=\"16:10\"> . There are also <Choice=\"6\"> earlier options .",
+        "MUL0758_B2": "There are <Choice=\"several\"> options available that could suit you . The arrival times are anywhere from <Arrive=\"06:07\"> to <Arrive=\"12:07\"> .",
+        "MUL2071_B8": "There are <Choice=\"two\"> choices , one arrives <Arrive=\"6:32\"> and the second one arrives at <Arrive=\"7:32\"> .",
+        "MUL2138_B3": "Certainly , we have a <Choice=\"variety\"> of departure times , the last train to arrive before 19:00 departs at <Arrive=\"17:36\"> and arrives at <Arrive=\"18:55\"> .",
+        "MUL2183_B7": "I have <Choice=\"several\"> trains that will work for you . You can arrive as early as <Arrive=\"16:07\"> or as late as <Arrive=\"24:07\"> ."
+    },
+    "Train-Inform:Arrive,Choice,Day": {
+        "MUL0480_B2": "There are <Choice=\"6\"> days that arrive before <Arrive=\"16:45\"> on <Day=\"this day\"> .",
+        "MUL0538_B1": "I 've located <Choice=\"several\"> trains that will arrive <Day=\"Friday\"> by <Arrive=\"8:30\"> .",
+        "MUL0663_B2": "There are a total of <Choice=\"8\"> trains arriving by <Arrive=\"21:15\"> on <Day=\"Tuesday\"> .",
+        "MUL0742_B1": "There are more than <Choice=\"2800\"> trains that leave on <Day=\"Tuesday\"> and arrive before <Arrive=\"20:00\"> .",
+        "MUL1852_B1": "There are <Choice=\"several\"> trains arriving by <Arrive=\"08:15\"> on <Day=\"Monday\"> ?",
+        "PMUL3141_B2": "Well , there are <Choice=\"101\"> trains arriving before <Arrive=\"15:15\"> on <Day=\"Friday\"> ."
+    },
+    "Train-Inform:Arrive,Choice,Day,Depart,Dest,Leave": {
+        "MUL0229_B2": "The <Choice=\"earliest\"> train that is leaving <Depart=\"bishops stortford\"> <Day=\"sunday\"> morning is at <Leave=\"11:29\"> , and will arrive in <Dest=\"cambridge\"> at <Arrive=\"12:07\">",
+        "MUL0496_B2": "I have <Choice=\"5\"> trains departing <Depart=\"cambridge\"> on <Day=\"Friday\"> to <Dest=\"birmingham new street\"> . The earliest is leaving at <Leave=\"19:01\"> arriving by <Arrive=\"21:44\"> .",
+        "MUL1547_B6": "There are <Choice=\"five\"> trains leaving <Depart=\"Peterborough\"> and going to <Dest=\"Cambridge\"> on <Day=\"Thursday\"> . The last one leaves at <Leave=\"7:19\"> and arrives at <Arrive=\"8:09\"> .",
+        "PMUL1304_B2": "If you would like to take a train from <Depart=\"Cambridge\"> to <Dest=\"Stevenage\"> there is <Choice=\"one\"> leaving <Day=\"Friday\"> at <Leave=\"05:21\"> arriving by <Arrive=\"06:10\"> ."
+    },
+    "Train-Inform:Arrive,Choice,Depart,Dest": {
+        "MUL0266_B5": "There are <Choice=\"four\"> trains that depart <Depart=\"peterborough\"> and arrive in <Dest=\"cambridge\"> by <Arrive=\"08:00\"> .",
+        "MUL0785_B4": "There are <Choice=\"42\"> trains departing from <Depart=\"kings lynn\"> that will arrive in <Dest=\"cambridge\"> by <Arrive=\"11:45\"> .",
+        "MUL0787_B4": "There are <Choice=\"2,828\"> trains that leave <Depart=\"cambridge\"> and arrive <Dest=\"somewhere in the world\"> by <Arrive=\"17:45\"> .",
+        "MUL2143_B4": "I have <Choice=\"5\"> train options leaving from <Dest=\"Bishops Stortford\"> from <Depart=\"Cambridge\"> that arrive before <Arrive=\"08:30\"> .",
+        "MUL2244_B6": "We have <Choice=\"15\"> trains going to <Dest=\"leicester\"> from <Depart=\"cambridge\"> arriving by <Arrive=\"21:00\"> ."
+    },
+    "Train-Inform:Arrive,Choice,Id,Leave": {
+        "MUL0458_B2": "There are <Choice=\"7\"> trains . The one that arrives closest to 19:15 is <Id=\"TR2952\"> which leaves at <Leave=\"17:17\"> and arrives at <Arrive=\"18:08\"> .",
+        "MUL0474_B4": "There are <Choice=\"3\"> trains . The last one that would get you here on time is <Id=\"TR8410\"> leaving <Leave=\"9:17\"> and arriving <Arrive=\"10:08\"> .",
+        "MUL0502_B2": "There are <Choice=\"6\"> trains . The closest arrival is <Id=\"TR4045\"> , which leaves at <Leave=\"10:16\"> and arrives at <Arrive=\"11:35\"> .",
+        "MUL0680_B2": "There are <Choice=\"several\"> trains that might work for you . The earliest is <Id=\"TR1750\"> , departing at <Leave=\"11:59\"> and arriving at <Arrive=\"13:27\"> .",
+        "MUL0709_B7": "I have <Choice=\"19\"> available trains . <Id=\"TR6628\"> leaves at <Leave=\"08:01\"> and arrives at <Arrive=\"10:44\"> ."
+    },
+    "Train-Inform:Arrive,Day,Depart,Dest,Id,Leave,Ticket": {
+        "MUL0307_B7": "The <Id=\"TR7683\"> train leaves <Depart=\"cambridge\"> at <Leave=\"10:01\"> on <Day=\"saturday\"> . It arrives at <Dest=\"birmingham new street\"> at <Arrive=\"12:44\"> and the price is <Ticket=\"60.08 pounds\"> .",
+        "MUL0633_B7": "The following train is available : <Id=\"TR8199\"> <Depart=\"Broxbourne\"> to <Dest=\"Cambridge\"> on <Day=\"Tuesday\"> at <Leave=\"13:32\"> arriving at <Arrive=\"14:32\"> . This will cost <Ticket=\"17.89GBP\"> .",
+        "MUL1433_B4": "Train <Id=\"TR4541\"> is leaving <Depart=\"Cambridge\"> to <Dest=\"Broxbourne\"> on <Day=\"Sunday\"> at <Leave=\"15:01\"> and arriving at <Arrive=\"6:01\"> . It costs <Ticket=\"14.32 pounds\"> .",
+        "MUL2056_B7": "Okay , trainID <Id=\"TR6697\"> seems most suitable for you , leaving <Depart=\"Kings Lynn\"> on <Day=\"Sunday\"> at <Leave=\"19:11\"> and arriving in <Dest=\"Cambridge\"> by <Arrive=\"19:58\"> . The price is <Ticket=\"7.84\"> pounds .",
+        "MUL2110_B5": "<Id=\"TR3300\"> Departs from <Depart=\"Cambridge\"> on <Day=\"Tuesday\"> at <Leave=\"23:21\"> and arrives in <Dest=\"Stevenage\"> by <Arrive=\"24:10\"> . The price is <Ticket=\"12.80 pounds\"> per ticket ."
+    },
+    "Train-Inform:Arrive,Day,Dest,Id": {
+        "MUL0391_B4": "<Id=\"TR3006\"> arrives in <Dest=\"Broxbourne\"> on <Day=\"Thursday\"> at <Arrive=\"13:01\"> .",
+        "MUL0424_B2": "We have the <Id=\"TR7956\"> arriving in <Dest=\"Cambridge\"> on <Day=\"Monday\"> at <Arrive=\"22:52\"> .",
+        "MUL0425_B3": "<Id=\"TR5517\"> will arrive in <Dest=\"broxbourne\"> by <Arrive=\"09:01\"> <Day=\"Monday\"> .",
+        "MUL1484_B4": "The <Id=\"TR0995\"> arrives in <Dest=\"London at Liverpool Street\"> at <Arrive=\"11:27\"> on <Day=\"Sunday\"> .",
+        "MUL1980_B4": "I have train <Id=\"TR3343\"> arriving at <Dest=\"london kings cross\"> <Day=\"tuesday\"> at <Arrive=\"7:00\"> ."
+    },
+    "Train-Inform:Arrive,Day,Dest,Id,Leave": {
+        "MUL0269_B4": "the <Id=\"TR7147\"> train departs <Day=\"sunday\"> at <Leave=\"11:17\"> and arrives in <Dest=\"cambridge\"> at <Arrive=\"12:08\"> .",
+        "MUL0781_B6": "<Id=\"TR2621\"> leaves <Day=\"Friday\"> at <Leave=\"12:11\"> and arrives in <Dest=\"Kings Lynn\"> at <Arrive=\"12:58\"> .",
+        "MUL1449_B3": "train ID <Id=\"TR8676\"> leaves for <Dest=\"London Kings Cross\"> on <Day=\"Wednesday\"> <Leave=\"19 : 00\"> and arrives at <Arrive=\"19:51\"> , will that be fine ?",
+        "MUL1978_B3": "Train <Id=\"TR9533\"> is going to <Dest=\"Norwich\"> on <Day=\"Sunday\"> at <Leave=\"10:36\"> and arrives at <Arrive=\"11:55\"> .",
+        "PMUL1018_B2": "<Id=\"TR0974\"> leaves <Day=\"Saturday\"> at <Leave=\"22:09\"> and arrives in <Dest=\"Cambridge\"> at <Arrive=\"23:54\"> ."
+    },
+    "Train-Inform:Arrive,Day,Id,Leave": {
+        "MUL0374_B3": "Train <Id=\"TR7759\"> is leaving on <Day=\"Thursday\"> at <Leave=\"15:29\"> to arrive by <Arrive=\"16:07\"> .",
+        "MUL1800_B2": "Train <Id=\"TR2475\"> leaves at <Leave=\"07:50\"> and arrives by <Arrive=\"08:07\"> on <Day=\"Sunday\"> .",
+        "MUL2126_B1": "Okay , train <Id=\"TR8131\"> leaves at <Leave=\"7:17\"> on <Day=\"Sunday\"> and arrives by <Arrive=\"8:08\"> .",
+        "MUL2176_B5": "I have train <Id=\"TR6725\"> leaving at <Leave=\"5:01\"> and arriving <Arrive=\"7:44\"> on <Day=\"sunday\"> .",
+        "MUL2216_B7": "<Id=\"TR4494\"> will depart at <Leave=\"17:19\"> on <Day=\"saturday\"> and arrive by <Arrive=\"18:09\"> ."
+    },
+    "Train-Inform:Arrive,Day,Leave": {
+        "MUL1569_B2": "I have a train that leaves <Day=\"Tuesday\"> at <Leave=\"11:17\"> that will arrive at <Arrive=\"12:08\"> .",
+        "PMUL0674_B7": "<Day=\"thursday\"> leave at <Leave=\"07:24\"> arrive at <Arrive=\"07:52\">",
+        "PMUL0723_B7": "I have one that leaves at <Leave=\"12:40\"> and arrives at <Arrive=\"13:08\"> on <Day=\"Sunday\"> .",
+        "PMUL0879_B3": "I have a train on <Day=\"Saturday\"> that leaves at <Leave=\"19 ; 35\"> and arrives by <Arrive=\"19:52\"> .",
+        "PMUL0964_B4": "The closest train i have leaves on <Day=\"sunday\"> at <Leave=\"15:40\"> and arrives by <Arrive=\"18:23\"> ."
+    },
+    "Train-Inform:Arrive,Depart,Dest,Id": {
+        "MUL0695_B3": "The <Id=\"TR6310\"> train departs <Depart=\"Stansted Airport\"> for <Dest=\"Cambridge\"> at <Arrive=\"10:24\"> .",
+        "MUL0789_B9": "How about the <Id=\"TR5015\"> train to <Dest=\"Cambridge\"> from <Depart=\"London Liverpool\"> ? It arrives by <Arrive=\"15:07\"> .",
+        "MUL1696_B5": "I 've got the <Id=\"TR8723\"> leaving <Depart=\"Stevenage\"> and arriving in <Dest=\"Cambridge\"> by <Arrive=\"08:43\"> .",
+        "MUL1732_B2": "The <Id=\"TR4669\"> departs <Depart=\"Ely\"> at 09:35 and arrives in <Dest=\"Cambridge\"> at <Arrive=\"09:52\"> .",
+        "MUL2221_B1": "I have train <Id=\"TR3634\"> leaving <Depart=\"cambridge\"> and arriving <Dest=\"london kings cross\"> at <Arrive=\"13:51\"> ."
+    },
+    "Train-Inform:Arrive,Id,Time": {
+        "MUL0331_B6": "<Id=\"TR8824\"> is to arrive by <Arrive=\"19:27\"> , making the duration of the travel time total to <Time=\"88 minutes\"> .",
+        "MUL0774_B6": "Id is <Id=\"TR0625\"> , travel time is <Time=\"79 minutes\"> and you will arrive by <Arrive=\"22:55\"> .",
+        "MUL1445_B7": "The train we 're looking at is <Id=\"TR3130\"> . It arrives at <Arrive=\"20:23\"> so the travel time is <Time=\"163 minutes\"> .",
+        "MUL1838_B8": "<Id=\"TR2969\"> arrives at <Arrive=\"09:54\"> after a <Time=\"105 minute\"> trip .",
+        "PMUL0753_B3": "<Id=\"TR1339\"> arrives at <Arrive=\"24:07\"> and takes <Time=\"38 minutes\"> to arrive there ."
+    },
+    "Train-Inform:Arrive,Leave,Ticket": {
+        "MUL0272_B5": "There is a train leaving at <Leave=\"5:01\"> and arriving at <Arrive=\"6:01\"> for <Ticket=\"17.90 pounds\"> .",
+        "MUL0373_B6": "There 's a train that leaves at <Leave=\"16:11\"> and arrives at <Arrive=\"16:58\"> . The price is <Ticket=\"9.80 pounds\"> .",
+        "MUL0428_B5": "The latest train that leaves at <Leave=\"19:11\"> and arrives at <Arrive=\"19:58\"> for <Ticket=\"9.80 pounds\"> .",
+        "MUL0435_B5": "There is a train leaving at <Leave=\"5:06\"> and arriving at <Arrive=\"05:56\"> for <Ticket=\"13.20 pounds\"> .",
+        "MUL0646_B5": "There is a train that leaves at <Leave=\"5:21\"> and arrives at <Arrive=\"7:06\"> . The price per ticket is <Ticket=\"30.24\"> ."
+    },
+    "Train-Inform:Arrive,Leave,Ticket,Time": {
+        "MUL0215_B5": "The price is <Ticket=\"9.80 pounds\"> and will leave at <Leave=\"8:11\"> and arrive at <Arrive=\"8:58\"> , which is <Time=\"47 minutes\"> travel time .",
+        "MUL0434_B5": "The train leaves at <Leave=\"13:29\"> , arrives by <Arrive=\"14:07\"> , a total time of <Time=\"38 minutes\"> , and costs <Ticket=\"10.10 pounds\"> .",
+        "MUL0442_B3": "Alright , I 'll look at the train that arrives at <Arrive=\"10:23\"> , and leaves at <Leave=\"7:40\"> . It costs <Ticket=\"75.10 pounds\"> , and it has a duration of <Time=\"163 minutes\"> .",
+        "MUL0616_B2": "I have a train that would leave at <Leave=\"18:36\"> and arrive by <Arrive=\"19:55\"> . It 's <Time=\"79 minutes long\"> and costs <Ticket=\"14.08 pounds\"> .",
+        "PMUL3527_B6": "The earliest train leaves at <Leave=\"05:40\"> and arrives <Arrive=\"08:23\"> . The price is <Ticket=\"75.10 pounds\"> and travel time <Time=\"163 minutes\"> .",
+        "SNG01397_B4": "<Leave=\"05:01\"> <Arrive=\"07:44\"> <Ticket=\"75.10 pounds\"> <Time=\"163 minutes\"> there you go"
+    },
+    "Train-Inform:Arrive,Leave,Time": {
+        "MUL0683_B2": "How about the <Leave=\"14:19\"> train ? It 's a <Time=\"50 minute trip\"> , so you 'll arrive at <Arrive=\"15:09\"> .",
+        "MUL0711_B14": "The train leaves at <Leave=\"13:32\"> and arrives <Arrive=\"14:32\"> for a travel time of <Time=\"60 minutes\"> .",
+        "MUL1909_B6": "Of course . The departure time for that train is <Leave=\"09:32\"> with an arrival time of <Arrive=\"10:32\"> . It 's a <Time=\"60 minute\"> ride .",
+        "MUL2078_B3": "The travel time for that train is <Time=\"38 minutes\"> . The one that leaves at <Leave=\"11:29\"> will arrive by <Arrive=\"12:07\"> .",
+        "MUL2204_B6": "The duration of the <Leave=\"9:29\"> train is <Time=\"38 minutes\"> , arriving at <Arrive=\"10:07\"> ."
+    },
+    "Train-Inform:Arrive,Time": {
+        "MUL0551_B5": "The arrival time is <Arrive=\"19:27\"> and the travel time is <Time=\"88 minutes\"> .",
+        "MUL0747_B3": "Sure , the travel time is <Time=\"88 minutes\"> and you will arrive at <Arrive=\"23:27\"> .",
+        "MUL1498_B10": "The arrival time is <Arrive=\"10:43\"> and the duration would be <Time=\"49 minutes\"> .",
+        "MUL1723_B5": "Arrival at <Arrive=\"15:32\"> and your travel time is only <Time=\"17 minutes\"> .",
+        "MUL2184_B8": "We have trains arriving <Arrive=\"hourly\"> . The trip takes <Time=\"about 1 hour and 15 minutes\"> ."
+    },
+    "Train-Inform:Choice,Day,Depart,Leave,Leave": {
+        "MUL0233_B1": "There are <Choice=\"several\"> trains departing for <Depart=\"Cambridge\"> on <Day=\"Tuesday\"> . One train departs <Leave=\"every hour\"> starting at <Leave=\"06:08\">",
+        "MUL0415_B1": "I have <Choice=\"10\"> trains departing from <Depart=\"Stevenage\"> on <Day=\"Friday\"> . They depart <Leave=\"every 2 hours\"> beginning at <Leave=\"05:54\"> .",
+        "MUL1771_B2": "There are a total of <Choice=\"14\"> trains leaving <Depart=\"Norwich\"> on <Day=\"Wednesday\"> <Leave=\"every hour\"> beginning at <Leave=\"10:16\"> .",
+        "MUL1772_B4": "There are <Choice=\"8\"> trains that would work on <Day=\"Wednesday\"> . You could leave <Depart=\"london\"> as early as <Leave=\"07:39\"> or as late as <Leave=\"17:39\"> ."
+    },
+    "Train-Inform:Choice,Depart,Leave": {
+        "MUL0316_B3": "There are <Choice=\"791\"> trains leaving <Depart=\"cambridge\"> after <Leave=\"that time\"> .",
+        "MUL0406_B2": "There are <Choice=\"7\"> trains with that criteria . All of them are leaving from <Depart=\"Cambridge\"> , leaving after <Leave=\"11\"> .",
+        "MUL0449_B2": "I have <Choice=\"7\"> trains leaving <Depart=\"Cambridge\"> on <Leave=\"every :11 starting at 17:11\"> .",
+        "MUL0463_B3": "There <Choice=\"multiple\"> trains leaving <Depart=\"London Kings Cross\"> after <Leave=\"13:30\"> .",
+        "MUL0628_B2": "There are <Choice=\"7\"> trains leaving <Depart=\"Leicaster\"> that fit your criteria . How does <Leave=\"17:09\"> sound ?"
+    },
+    "Train-Inform:Choice,Leave,Leave,Leave,Leave": {
+        "MUL0354_B6": "There are <Choice=\"4\"> trains that will work for you - leaving <Leave=\"20:40\"> , <Leave=\"21:40\"> , <Leave=\"22:40\"> , and <Leave=\"23:40\"> .",
+        "MUL0778_B6": "There are <Choice=\"four\"> trains that fir your criteria . The departure times are <Leave=\"05:29\"> , <Leave=\"07:29\"> , <Leave=\"09:29\"> and <Leave=\"11:29\"> .",
+        "PMUL1987_B6": "I have <Choice=\"7\"> trains matching your criteria . They leave <Leave=\"every hour\"> starting at <Leave=\"5:01\"> to <Leave=\"10:01\"> , and then one more at <Leave=\"23:01\"> .",
+        "PMUL3378_B6": "There are <Choice=\"4\"> trains that meet your criteria , departing at <Leave=\"05:11\"> , <Leave=\"06:11\"> , <Leave=\"07:11\"> , or <Leave=\"08:11\"> ."
+    },
+    "Train-Inform:Choice,Leave,Leave,Time": {
+        "MUL1938_B4": "There are <Choice=\"two\"> trains meeting your needs . The earlier train leaves at <Leave=\"22:11\"> and the later train at <Leave=\"23:11\"> . The ride takes <Time=\"47 minutes\"> .",
+        "PMUL1531_B1": "There are <Choice=\"70\"> possible trips . You can leave <Leave=\"as early as 5:35\"> and <Leave=\"as late as 23:35\"> . The trip is <Time=\"17 minutes\"> .",
+        "PMUL1646_B2": "There are <Choice=\"7\"> trips that would work . The earliest leaves at <Leave=\"17:11\"> and the latest leaves at <Leave=\"23:11\"> . The train ride will be <Time=\"47 minutes\"> .",
+        "PMUL4567_B3": "Alright , there are <Choice=\"8\"> options . The earliest train after 09:15 leaves at <Leave=\"09:50\"> and the latest at <Leave=\"23:50\"> , each takes <Time=\"17 minutes\"> ."
+    },
+    "Train-Inform:Choice,Leave,Time": {
+        "MUL0201_B6": "I have <Choice=\"10\"> trains leaving <Leave=\"hourly on the :01 from 14:01 to 23:01\"> , with a duration of <Time=\"163 minutes\"> .",
+        "MUL0381_B7": "I have <Choice=\"15\"> trains leaving <Leave=\"hourly on the :01 from 9:01 to 23:01\"> . The trip duration is <Time=\"163 minutes\"> .",
+        "MUL1431_B2": "There are <Choice=\"several\"> options , the first one leaving at <Leave=\"13:32\"> . It is a <Time=\"60 minute\"> trip .",
+        "MUL1654_B1": "Yes , there are <Choice=\"several\"> leaving <Leave=\"every 2 hours\"> . The ride is <Time=\"88 minutes long\"> ."
+    },
+    "Train-Inform:Choice,Time": {
+        "MUL0700_B8": "There are <Choice=\"13\"> possibilities . Every ride is <Time=\"47 minutes\"> and the cost is the same .",
+        "MUL1570_B1": "There are <Choice=\"several\"> choices . The ride is about <Time=\"79 minutes\"> long .",
+        "MUL2186_B8": "The travel time is <Time=\"51 minutes\"> and there are <Choice=\"multiple\"> trains .",
+        "PMUL3299_B1": "There are <Choice=\"many\"> trains available for you . The trip will take <Time=\"105 minutes\"> .",
+        "PMUL3527_B5": "There are <Choice=\"4\"> options . The travel time for each trip is <Time=\"163 minutes\"> .",
+        "PMUL4106_B6": "The travel time for <Choice=\"all\"> trains to that destination is <Time=\"49 minutes\">"
+    },
+    "Train-Inform:Day": {
+        "MUL2293_B6": "Yes , that train leaves on <Day=\"Friday\"> .",
+        "PMUL0842_B7": "The train is for <Day=\"Saturday\"> you are all set",
+        "PMUL1642_B5": "This train actually leave on <Day=\"Friday\"> .",
+        "PMUL1898_B2": "I have ten trains doing that trip on <Day=\"Thursday\"> .",
+        "SNG1237_B2": "Okay , I changed the day of travel to <Day=\"tuesday\"> for you ."
+    },
+    "Train-Inform:Day,Depart,Dest": {
+        "MUL0491_B3": "I have trains into <Dest=\"cambridge\"> from <Depart=\"stevanage\"> on <Day=\"thursday\"> .",
+        "MUL1413_B1": "There is a train that departs <Depart=\"cambridge\"> and arrives at <Dest=\"london kings cross\"> on <Day=\"friday\"> .",
+        "MUL1417_B1": "The <Depart=\"london kings cross\"> travels to <Dest=\"cambridge\"> on <Day=\"Saturday\"> .",
+        "MUL1751_B1": "It looks like there are trains from <Depart=\"Cambridge\"> to <Dest=\"Norwich\"> <Day=\"every\"> day .",
+        "PMUL0960_B1": "First of all , there is a train leaving <Depart=\"Broxbourne\"> for <Dest=\"Cambridge\"> every hour on <Day=\"Friday\"> .",
+        "SNG01870_B2": "Let me confirm you are traveling from <Depart=\"Cambridge\"> to <Dest=\"Stevanage\"> this <Day=\"Saturday\"> ."
+    },
+    "Train-Inform:Day,Depart,Dest,Leave": {
+        "MUL0254_B1": "There are trains departing from <Depart=\"Cambridge\"> going to <Dest=\"ely\"> at <Leave=\"1350\"> <Day=\"daily\"> .",
+        "MUL0283_B2": "The first departure from <Depart=\"cambridge\"> to <Dest=\"ely\"> on <Day=\"Thursday\"> leaves at <Leave=\"15:50\"> .",
+        "MUL0516_B4": "There is a train from <Depart=\"Ely\"> to <Dest=\"Cambridge\"> on <Day=\"Friday\"> at <Leave=\"11:35\"> .",
+        "MUL0531_B1": "the next train from <Depart=\"king lynn\"> is <Day=\"Friday\"> <Leave=\"5:11\"> to <Dest=\"Cambridge\">",
+        "MUL0550_B3": "There is a train departing from <Depart=\"Cambridge\"> to <Dest=\"Stansted Airport\"> on <Day=\"Wednesday\"> at <Leave=\"11:40\"> ."
+    },
+    "Train-Inform:Day,Depart,Id,Leave": {
+        "MUL0365_B2": "There is a Train , <Id=\"TR572\"> that departs from <Depart=\"london kings cross\"> <Day=\"Monday\"> at <Leave=\"11:17\">",
+        "MUL0510_B8": "<Id=\"TR6679\"> leaves <Depart=\"Cambridge\"> at <Leave=\"19:35\"> on <Day=\"Monday\"> .",
+        "MUL0666_B13": "Train <Id=\"TR7656\"> departs <Depart=\"Cambridge\"> on <Day=\"Tuesday\"> at <Leave=\"09:01\"> .",
+        "MUL1881_B3": "<Id=\"TR8411\"> departs from <Depart=\"Cambridge\"> at <Leave=\"9:36\"> on <Day=\"Saturday\"> .",
+        "MUL2081_B2": "<Id=\"TR6626\"> leaves <Depart=\"Cambridge\"> on <Day=\"Friday\"> at <Leave=\"17:00\"> ."
+    },
+    "Train-Inform:Day,Depart,Leave": {
+        "MUL0236_B2": "The train closest to the time when you can depart leaves <Depart=\"London Liverpool Street\"> on <Day=\"Sunday\"> that <Leave=\"13:39\"> .",
+        "MUL0241_B1": "I have a train leaving at <Leave=\"15:00\"> on <Day=\"friday\"> from <Depart=\"london kings cross\"> .",
+        "MUL0281_B5": "The first train leaves from <Depart=\"stanstead airport\"> on <Day=\"friday\"> at <Leave=\"20:24\"> .",
+        "MUL0281_B6": "Alright , I have the earliest on <Day=\"Sunday\"> leaving at <Leave=\"20:24\"> from <Depart=\"Stansted Airport\"> .",
+        "MUL0367_B1": "Yes I have a train leaving on <Day=\"Tuesday\"> at <Leave=\"05:17\"> from <Depart=\"London kings cross\"> ."
+    },
+    "Train-Inform:Day,Id": {
+        "MUL2203_B8": "Yes , <Id=\"TR9629\"> leaves on <Day=\"Friday\"> .",
+        "PMUL1216_B1": "The <Id=\"TR9859\"> will take you there on <Day=\"friday\"> .",
+        "PMUL1417_B1": "The <Id=\"TR6003\"> leaves on <Day=\"sunday\"> .",
+        "PMUL1467_B3": "Okay , train : <Id=\"TR6866\"> leaves at that time on <Day=\"Saturday\"> .",
+        "SNG01152_B1": "the train id is <Id=\"TR6549\"> and it leaves on <Day=\"friday\">",
+        "SNG01717_B1": "the train id is <Id=\"TR1709\"> and it leaves on <Day=\"friday\">"
+    },
+    "Train-Inform:Depart": {
+        "MUL0306_B3": "Yes , it leaves from <Depart=\"Cambridge\"> .",
+        "MUL0786_B5": "Yes the train will be departing from <Depart=\"Cambridge\"> .",
+        "MUL1411_B8": "Yes , that train is departing from <Depart=\"Cambridge\"> .",
+        "MUL1514_B4": "Ok what time will you be departing from <Depart=\"cambridge\"> ?",
+        "MUL1602_B8": "Just to confirm , that train leaves from <Depart=\"London Kings Cross\"> ."
+    },
+    "Train-Inform:Depart,Dest,Id,Leave": {
+        "MUL0337_B2": "The <Id=\"TR4203\"> is leaving from <Depart=\"Norwich\"> to <Dest=\"Cambridge\"> at <Leave=\"05:16\"> .",
+        "MUL0342_B1": "<Id=\"TR5725\"> From <Depart=\"London kings cross\"> to <Dest=\"Cambridge\"> Wednesday leaving at <Leave=\"05:17\"> .",
+        "MUL0508_B2": "The <Id=\"TR7047\"> train departs <Depart=\"Cambridge\"> for <Dest=\"Norwich\"> at <Leave=\"16:36\"> .",
+        "MUL1727_B4": "The first train out of <Depart=\"Cambridge\"> to <Dest=\"Stevenage\"> after 16:30 is the <Id=\"TR4216\"> , which leaves at <Leave=\"17:21\"> .",
+        "MUL1831_B5": "<Id=\"TR6975\"> leaves <Depart=\"Cambridge\"> for <Dest=\"Ely\"> at <Leave=\"19:50\"> ."
+    },
+    "Train-Inform:Depart,Dest,Leave": {
+        "MUL0231_B2": "There is a bus that leaves <Depart=\"Birmingham New Street\"> for <Dest=\"Cambridge\"> at <Leave=\"10:40\"> .",
+        "MUL0284_B2": "There is a train leaving <Depart=\"Birmingham New Street\"> heading to <Dest=\"Cambridge\"> at <Leave=\"13.40\"> .",
+        "MUL0465_B2": "The earliest departure I have for Thursday from <Depart=\"cambridge\"> to <Dest=\"london kings cross\"> leaves at <Leave=\"19:00\"> .",
+        "MUL0770_B5": "Certainly , there are trains from <Depart=\"Cambridge\"> to <Dest=\"Leicester\"> <Leave=\"every hour at 21 past the hour from 05:21 to 23:21\"> .",
+        "MUL1445_B6": "I have a train leaving at <Leave=\"17:40\"> from <Depart=\"birmingham new street\"> to <Dest=\"cambridge\"> ."
+    },
+    "Train-Inform:Depart,Id": {
+        "MUL1661_B4": "Train id is <Id=\"TR1037\"> . It will be in the <Depart=\"same city\"> , yes .",
+        "MUL2104_B1": "Train <Id=\"TR2775\"> departs from <Depart=\"london kings cross\"> .",
+        "MUL2266_B5": "Train <Id=\"TR5686\"> leaves <Depart=\"london kings cross\"> .",
+        "PMUL1993_B2": "Okay , <Id=\"TR0363\"> departs at <Depart=\"09:09\"> .",
+        "PMUL3443_B4": "Okay the <Id=\"TR5009\"> leaves at <Depart=\"18:40\"> .",
+        "PMUL4233_B6": "Yes , train <Id=\"TR6524\"> leaves from <Depart=\"cambridge\"> ."
+    },
+    "Train-Inform:Depart,Id,Leave,Leave": {
+        "MUL0451_B5": "<Id=\"TR0033\"> is the latest train that meets your requirements and leaves <Depart=\"norwich\"> at <Leave=\"15:16\"> . If you want to catch an earlier train , they depart <Leave=\"hourly\"> .",
+        "PMUL0876_B2": "The first train after <Leave=\"16:45\"> is the <Id=\"TR8925\"> , departing <Depart=\"Bishops Stortford\"> at <Leave=\"17:29\"> .",
+        "PMUL1053_B2": "<Id=\"TR2129\"> leaves <Depart=\"Cambridge\"> at <Leave=\"12:21\"> . There are trains <Leave=\"every hour after\"> as well , if you would like to leave a little later .",
+        "PMUL4420_B3": "<Id=\"TR9964\"> departs <Depart=\"peterborough\"> at <Leave=\"14:19\"> , or there is also a later one that leaves at <Leave=\"14:48\"> ."
+    },
+    "Train-Inform:Depart,Id,Leave,Time": {
+        "MUL0327_B11": "<Id=\"TR 5484\"> departs <Depart=\"Cambridge\"> at <Leave=\"18:01\"> and take <Time=\"60 minutes\"> to get to Broxbourne .",
+        "MUL0630_B6": "Train <Id=\"TR1465\"> departs <Depart=\"Cambridge\"> at <Leave=\"20:11\"> and takes exactly <Time=\"47 minutes\"> .",
+        "MUL1896_B3": "<Id=\"TR0060\"> will depart <Depart=\"Bishops Stortford\"> at <Leave=\"19:29\"> , and it will take <Time=\"38 minutes\"> for your trip .",
+        "PMUL3148_B7": "Train <Id=\"TR8335\"> departs <Depart=\"Cambridge\"> at <Leave=\"07:00\"> . The duration of the trip is <Time=\"51 minutes\"> .",
+        "PMUL4664_B4": "Travel time will be <Time=\"28 minutes\"> for any train . The one closest to your arrival time is the <Id=\"TR5579\"> , which departs <Depart=\"cambridge\"> at <Leave=\"17:40\">"
+    },
+    "Train-Inform:Dest,Id,Leave": {
+        "MUL0356_B5": "<Id=\"TR2621\"> leaves at <Leave=\"12:11\"> going to <Dest=\"Kings Lynn\"> .",
+        "MUL0363_B5": "Please book trainid <Id=\"TR8952\"> leaving <Dest=\"cambridge\"> at <Leave=\"16:01\"> .",
+        "MUL0777_B2": "Train <Id=\"TR8903\"> departs for <Dest=\"Cambridge\"> on Friday at <Leave=\"18:40\"> .",
+        "MUL2147_B5": "The last train that goes to <Dest=\"Bishops Stortford\"> is <Id=\"TR5965\"> and it leaves at <Leave=\"19:29\"> .",
+        "PMUL0757_B6": "The <Id=\"TR1854\"> leaves for <Dest=\"Kings Lynn\"> at <Leave=\"10:11\"> .",
+        "SNG0421_B1": "Sure , I can put you on <Id=\"TR5042\"> which leaves for <Dest=\"Cambridge\"> at <Leave=\"5:19\"> ."
+    },
+    "Train-Inform:Dest,Leave": {
+        "MUL1625_B1": "Hi , there 's one that departs at <Leave=\"05:00\"> going to <Dest=\"london kings cross\"> .",
+        "PMUL0824_B1": "We have trains departing for <Dest=\"Kings Cross\"> <Leave=\"every 2 hours\"> .",
+        "PMUL1556_B4": "There is a train at <Leave=\"17:00\"> going to <Dest=\"Kings Cross\"> .",
+        "SNG01160_B1": "I have a train going to <Dest=\"London King 's Cross\"> that will leave at <Leave=\"05:00\"> .",
+        "SNG02206_B5": "More specifically , the train arrives in <Dest=\"Norwich\"> at <Leave=\"16:55\"> . If there is nothing more , thank you for calling . Goodbye ."
+    },
+    "Train-Inform:Id,Id,Leave,Leave": {
+        "MUL0589_B10": "The train ID for the departure at <Leave=\"21:21\"> is <Id=\"TR9016\"> and the trainID that departs at <Leave=\"2312\"> is <Id=\"TR6387\"> .",
+        "MUL0747_B2": "You could take the <Id=\"TR9557\"> at <Leave=\"21:59\"> , or the <Id=\"TR3138\"> <Leave=\"two hours later\"> .",
+        "MUL1571_B4": "<Id=\"TR7076\"> leaves at <Leave=\"10:34\"> , would you like that one ? There 's <Id=\"TR7386\"> that leaves at <Leave=\"11:06\"> .",
+        "PMUL4063_B4": "<Id=\"TR9557\"> leaves at <Leave=\"21:59\"> , or , if that is too close to 21:30 , <Id=\"TR3138\"> leaves at <Leave=\"23:59\"> .",
+        "PMUL4433_B2": "How about <Id=\"TR5343\"> ? It leaves at <Leave=\"15:21\"> . Your next choice is <Id=\"TR9883\"> which leaves at <Leave=\"17:21\"> ."
+    },
+    "Train-Inform:Id,Leave,Ticket,Time": {
+        "MUL0569_B3": "Sure the trainID for the <Leave=\"19:21\"> train is <Id=\"TR5816\"> , the travel time is <Time=\"105 minutes\"> , and tickets are <Ticket=\"37.80 GBP\"> each .",
+        "MUL0636_B11": "<Id=\"TR5669\"> is the one that leaves at <Leave=\"11:01\"> . The tickets are <Ticket=\"60.08 pounds\"> each and the trip is <Time=\"163 minutes\"> .",
+        "MUL0727_B3": "Of course ! The best option is the <Id=\"TR7092\"> leaving at <Leave=\"17:59\"> with a duration of <Time=\"88 minutes\"> . The price is <Ticket=\"16.60 pounds\"> .",
+        "MUL0783_B3": "OK , <Id=\"TR1584\"> costs <Ticket=\"17.60 pounds\"> and leaves at <Leave=\"9:36\"> . The travel time is <Time=\"79 minutes\"> .",
+        "MUL1435_B4": "There is <Id=\"TR5691\"> leaving at <Leave=\"11:39\"> today . It is <Time=\"88 minutes\"> and costs <Ticket=\"16.60 pounds\"> ."
+    },
+    "Train-Inform:Leave,Leave,Time": {
+        "MUL0259_B4": "I have them leaving <Leave=\"from 5:17\"> in the morning for every two hours <Leave=\"until 24:08\"> in the evening . The journey is approximately <Time=\"51 minutes\"> .",
+        "PMUL0653_B8": "The earliest train leaves <Leave=\"05:21\"> and the last one leaves at <Leave=\"13:21\"> . They all have a travel time of <Time=\"49 minutes\"> .",
+        "PMUL1337_B2": "The first train leaves at <Leave=\"05:35\"> and has a duration of <Time=\"17 minutes\"> . Trains leave <Leave=\"every two hours thereafter ending at 23:35\"> .",
+        "SNG0396_B3": "The first train leaving after <Leave=\"20:30\"> is <Leave=\"21:09\"> and the travel time is <Time=\"105 minutes\"> ."
+    },
+    "Train-NoOffer:Arrive": {
+        "MUL0290_B7": "I do not have a train arriving at <Arrive=\"11:5\"> .",
+        "PMUL1573_B2": "I 'm sorry , we do n't have any trains arriving by <Arrive=\"17:15\"> .",
+        "SNG02046_B3": "I 'm sorry for the confusion , that train wo n't arrive by <Arrive=\"18:00\"> .",
+        "SNG0299_B2": "I am sorry there are not trains to arrive at <Arrive=\"13.31\"> ."
+    },
+    "Train-NoOffer:Day,Depart,Dest": {
+        "MUL2281_B5": "There are no trains available on <Day=\"sunday\"> leaving <Depart=\"cambridge\"> and arriving in <Dest=\"london liverpool street\"> . Can you travel on a different day ?",
+        "PMUL1872_B2": "There are no trains available on <Day=\"Saturday\"> from <Depart=\"Ely\"> to <Dest=\"Cambridge\"> .",
+        "PMUL4056_B2": "There are no trains available on <Day=\"Saturday\"> from <Depart=\"Ely\"> to <Dest=\"Cambridge\"> .",
+        "PMUL4942_B7": "sorry , there are no trains from <Depart=\"leicester\"> to <Dest=\"cambridge\"> on <Day=\"wednesday\"> ."
+    },
+    "Train-NoOffer:Depart": {
+        "PMUL0777_B3": "There is no train leaving <Depart=\"kings Lynn\"> .",
+        "PMUL1536_B2": "There are no trains leaving from <Depart=\"that location\"> .",
+        "PMUL1556_B2": "I do n't show that there are any trains departing from <Depart=\"City Hall\"> .",
+        "PMUL3465_B4": "I 'm sorry , there are no train departures from <Depart=\"Duxford\"> that match your criteria ."
+    },
+    "Train-OfferBook:Arrive,Id,Leave": {
+        "MUL0215_B4": "Would you like me to book <Id=\"TR8705\"> which leaves at <Leave=\"8:11\"> and arrives at <Arrive=\"8:58\">",
+        "MUL0302_B2": "The <Id=\"TR7964\"> leaves at <Leave=\"5:11\"> and arrvies at <Arrive=\"5:58\"> , would you like me to book that for you ?",
+        "MUL0524_B5": "<Id=\"TR2602\"> leaves at <Leave=\"5:16\"> and arrives at <Arrive=\"6:35\"> if you would like that one .",
+        "MUL0787_B5": "I could get you on the <Id=\"TR1316\"> leaving at <Leave=\"14:40\"> and arriving at <Arrive=\"15:08\"> . Would you like tickets ?",
+        "MUL1406_B3": "I can book you on the <Id=\"TR 3587\"> leaving at <Leave=\"14:06\"> and arriving by <Arrive=\"14:56\"> . Would that be good ?"
+    },
+    "Train-OfferBooked:Arrive,Depart,Dest,Id,Leave,People,Ref,Ticket": {
+        "MUL0242_B8": "OK , I 've booked you <People=\"1\"> ticket on <Id=\"TR0514\"> , departing <Depart=\"stansted airport\"> at <Leave=\"7:24\"> and arriving <Dest=\"cambridge\"> at <Arrive=\"7:52\"> . The reference number is <Ref=\"P1C2KKFQ\"> . Total fee is <Ticket=\"10.1 GBP\"> .",
+        "MUL1516_B7": "Ok , I have booked <People=\"2\"> tickets on <Id=\"TR5936\"> leaving <Depart=\"Liverpool St\"> at <Leave=\"07:39\"> and arriving in <Dest=\"Cambridge\"> at <Arrive=\"09:07\"> . Reference number <Ref=\"68JD5L35\"> . It will be <Ticket=\"33.20GBP\"> at the station .",
+        "MUL1753_B3": "Okay , I have booked <People=\"4\"> tickets on <Id=\"TR 5547\"> , leaving from <Depart=\"Peterborough\"> at <Leave=\"10:19\"> and arriving in <Dest=\"Cambridge\"> at <Arrive=\"11:09\"> . Your reference number is <Ref=\"IT0CF4V7\"> . Total fee is <Ticket=\"66\"> .",
+        "MUL1823_B3": "Okay , I have booked <People=\"8\"> tickets on <Id=\"TR6110\"> . Leaves from <Depart=\"Cambridge\"> at <Leave=\"13:00\"> , arriving in <Dest=\"London Kings Cross\"> at <Arrive=\"13:51\"> . Your reference number is <Ref=\"GOOH50QG\"> . Total fee is <Ticket=\"188.8GBP\"> .",
+        "PMUL3854_B4": "I have booked you <People=\"2\"> tickets on the <Id=\"TR4625\"> leaving <Depart=\"Leicester\"> at <Leave=\"13:09\"> and arriving in <Dest=\"Cambridge\"> at <Arrive=\"14:54\"> total fee is <Ticket=\"75.59 GBP\"> referenece <Ref=\"TGE8CAOR\"> ."
+    },
+    "Train-OfferBooked:Arrive,Id,Leave,People,Ref,Ticket": {
+        "MUL1442_B3": "Ok . <Id=\"TR7909\"> leaving at <Leave=\"23:39\"> and arriving at <Arrive=\"01:07\"> is booked for <People=\"3\"> people . Reference <Ref=\"00PENVQG\"> . <Ticket=\"39.83\"> payable at the station",
+        "MUL1976_B7": "I booked train <Id=\"TR7169\"> for <People=\"7\"> tickets . The price will be <Ticket=\"70.7 GBP\"> which is payable at the station . The Train leaves at <Leave=\"9:29\"> and arrives by <Arrive=\"10:07\"> . Ref . <Ref=\"VU01LYC5\">",
+        "MUL2088_B8": "Thank you , I booked you <People=\"7\"> seats on <Id=\"TR2025\"> departing <Leave=\"05:21\"> and arriving <Arrive=\"07:06\"> . The cost is <Ticket=\"211.67 GBP\"> and your reference number is <Ref=\"5GWIPH95\"> .",
+        "MUL2161_B3": "Great ! I have you booked for <People=\"7\"> people on <Id=\"TR2968\"> , leaving at <Leave=\"08:01\"> and arriving at <Arrive=\"10:44\"> . Your reference number is <Ref=\"IFI48FZ7\"> . Your fee is <Ticket=\"420.56\"> payable at the station .",
+        "PMUL1755_B3": "Absolutely ! You are booked for <People=\"8\"> seats on <Id=\"TR5643\"> leaving at <Leave=\"13:29\"> and arriving at <Arrive=\"14:07\"> . The cost is <Ticket=\"64.64 GBP\"> due at the station . Reference : <Ref=\"Y6865OET\">"
+    },
+    "Train-OfferBooked:Arrive,Id,Leave,Ref": {
+        "MUL1685_B3": "Success ! <Id=\"TR5953\"> departs at <Leave=\"11:32\"> and arrives <Arrive=\"12:32\"> . Your reference number is <Ref=\"EQCLFB3Q\"> .",
+        "MUL1716_B3": "I have booked you on <Id=\"TR7733\"> , leave at <Leave=\"17:50\"> , arrive <Arrive=\"18:07\"> , The reference number is : <Ref=\"KN3TLBK8\"> .",
+        "SNG0293_B3": "I have three seats booked on <Id=\"TR0236\"> , departing at <Leave=\"13:35\"> and arriving at <Arrive=\"13:52\"> . Your confirmation number is <Ref=\"T3Y4Y9S8\"> .",
+        "SNG0355_B3": "<Id=\"TR4537\"> has been booked for you . lt leaves at <Leave=\"07:32\"> and arrives at <Arrive=\"08:32\"> . The reference number is <Ref=\"8UMHY366\"> ."
+    },
+    "Train-OfferBooked:Day,Depart,Id,Leave,People,Ref,Ticket": {
+        "MUL1887_B6": "I booked you <People=\"3\"> seats on <Id=\"TR4708\"> leaving <Depart=\"Cambridge\"> on <Day=\"Saturday\"> at <Leave=\"20:21\"> , the total fee is <Ticket=\"90.72 GBP\"> and your reference number is <Ref=\"FVMA8AAO\"> .",
+        "MUL2120_B3": "I booked your seats for <People=\"6\"> people on <Id=\"TR1766\"> departing <Depart=\"Cambridge\"> on <Day=\"Wednesday\"> at <Leave=\"19:01\"> . The total comes to <Ticket=\"450.6GBP\"> and your reference number is <Ref=\"8WMYBHC3\"> .",
+        "PMUL1649_B3": "OK , you have <People=\"4\"> tickets reserved on <Id=\"TR9495\"> , leaving <Depart=\"Cambridge\"> at <Leave=\"18:40\"> on <Day=\"Tuesday\"> . The total fee at the station will be <Ticket=\"40.4GBP\"> , and your reference number is <Ref=\"4LL98NYC\"> .",
+        "SNG0305_B4": "Sure . I booked <Id=\"TR4625\"> leaving <Depart=\"Leicester\"> <Day=\"Friday\"> at <Leave=\"14:09\"> , <People=\"7\"> tickets . Reference number is <Ref=\"U32YDDW9\"> and <Ticket=\"264.59 GBP\"> will be due , payable at the station ."
+    },
+    "Train-OfferBooked:Id,People,Ticket": {
+        "MUL1991_B8": "I have booked to for <People=\"1\"> ticket , the price is <Ticket=\"37.80\"> payment due at the station the train number is <Id=\"TR2985\">",
+        "MUL2256_B9": "I was able to book you for <People=\"4\"> tickets on train <Id=\"TR7278\"> . The total fee is <Ticket=\"51.2 GBP\"> payable at the station .",
+        "PMUL3109_B5": "You have <People=\"2\"> seats reserved on <Id=\"TR8266\"> , ref # AZVRQ5NW . The total fee is <Ticket=\"20.2 GBP\"> , which you can pay at the station .",
+        "PMUL4816_B7": "You have <People=\"6\"> tickets on the <Id=\"TR9802\"> for a total of <Ticket=\"99.60 gbp\"> and you can pay at the train station ."
+    },
+    "Train-Select:Leave": {
+        "MUL0233_B2": "The earliest is <Leave=\"15:40\"> , does that work ?",
+        "MUL0362_B4": "Do you want to leave at <Leave=\"19:36\"> ?",
+        "MUL0434_B4": "Would you like to leave at <Leave=\"13:29\"> ?",
+        "MUL1544_B2": "No train at that time do you want to change the time to <Leave=\"09:39\"> ?",
+        "MUL1658_B2": "Would a train departing at <Leave=\"09:54\"> work for you ?"
+    }
+}
