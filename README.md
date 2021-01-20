@@ -74,3 +74,14 @@ To evaluate a model, we provide three scripts: `eval_context_prototypes.py`, `ev
 
 ## Contributing
 All content in this repository is licensed under the MIT license.
+
+### Citation
+
+```
+@article{lippe2020diversifying,
+  title={Diversifying Task-oriented Dialogue Response Generation with Prototype Guided Paraphrasing},
+  author={Lippe, Phillip and Ren, Pengjie and Haned, Hinda and Voorn, Bart and de Rijke, Maarten},
+  journal={arXiv preprint arXiv:2008.03391},
+  year={2020}
+}
+```
